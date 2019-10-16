@@ -1141,3 +1141,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.16-01.48.25:166][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
 [2019.10.16-01.48.25:205][380]LogPlayLevel: Display: Destroying online subsystem :Context_13
 [2019.10.16-01.49.26:284][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-01.56.24:923][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.10.16-01.56.24:924][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.16-01.56.25:084][329]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_Auto2AE5CEA5048F1903F7D8866A89594F92B.tmp' to '../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto2.umap'
+[2019.10.16-01.56.25:086][329]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 0.193
+[2019.10.16-01.56.25:086][329]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.193
+[2019.10.16-01.57.50:259][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rock_stacked_01)
+[2019.10.16-01.57.52:780][192]Cmd: DELETE
+[2019.10.16-01.57.52:780][192]Cmd: ACTOR DELETE
+[2019.10.16-01.57.53:044][192]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.16-01.57.53:078][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.10.16-01.57.53:078][192]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2019.10.16-01.57.55:083][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-01.57.55:207][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.16-01.57.55:235][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.10.16-01.57.55:391][423]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map21DA474B44DA32C49418BE8D9A81D4CF.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap'
+[2019.10.16-01.57.55:403][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
+[2019.10.16-01.57.55:410][423]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_BuiltData296A392845AA6233577E2D994E34EE39.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset'
+[2019.10.16-01.57.59:158][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-01.58.11:814][307]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.10.16-01.58.11:843][308]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.10.16-01.58.11:881][309]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2019.10.16-01.58.57:912][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.16-01.58.57:948][255]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.10.16-01.58.58:119][255]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_MapFAD658EF4933DA6371F33799799C5937.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap'
+[2019.10.16-01.58.58:130][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
+[2019.10.16-01.58.58:137][255]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_BuiltDataC90717E640F7FCC57EB730816A3ED0F8.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset'
+[2019.10.16-01.58.58:948][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-01.58.59:574][406]BlueprintLog: New page: Compile First_Person
+[2019.10.16-01.58.59:733][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.10.16-01.59.02:435][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
