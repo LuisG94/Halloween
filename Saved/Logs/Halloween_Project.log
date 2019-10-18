@@ -1134,3 +1134,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.18-01.53.00:602][ 47]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_Auto4699D4A3E480798F95DCD4697EF41E51A.tmp' to '../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto4.umap'
 [2019.10.18-01.53.00:603][ 47]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 0.282
 [2019.10.18-01.53.00:603][ 47]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.282
+[2019.10.18-01.56.00:402][238]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.18-01.56.22:827][553]Cmd: TRANSACTION UNDO
+[2019.10.18-01.56.22:827][553]LogEditorTransaction: Undo Move Actors
+[2019.10.18-01.56.41:911][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-01.56.44:629][816]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.18-01.56.53:063][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-01.57.13:192][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-01.57.30:539][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-01.58.58:924][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2019.10.18-02.00.23:512][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-02.00.29:024][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-02.00.55:774][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-02.01.13:371][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-02.01.22:689][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-02.02.04:039][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.18-02.02.04:158][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.18-02.02.04:187][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.10.18-02.02.04:355][924]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_MapFC7DF4554658BC2BC154758D5F665107.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap'
+[2019.10.18-02.02.04:381][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
+[2019.10.18-02.02.04:416][924]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_BuiltDataDBB3AFED459EEF64855587A66F87FF75.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset'
+[2019.10.18-02.02.07:298][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
