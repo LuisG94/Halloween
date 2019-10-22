@@ -588,3 +588,167 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.22-18.29.47:225][372]LogDirectoryWatcher: A directory notification failed for 'D:/GitHub/Halloween/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2019.10.22-18.29.47:225][372]LogDirectoryWatcher: A directory notification failed for 'D:/GitHub/Halloween/Content/Developers/Luis/Collections/' because it could not be accessed. Aborting watch request...
 [2019.10.22-18.29.47:225][372]LogDirectoryWatcher: A directory notification failed for 'D:/GitHub/Halloween/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2019.10.22-19.12.08:618][588]LogTexture: Display: Building textures: T_ZombieBoyTOP_MAT_BC_V1 (AutoDXT, 2048X2048)
+[2019.10.22-19.12.08:618][588]LogTexture: Display: Building textures: T_ZombieBoyTOP_MAT_AO_R_M_V1 (AutoDXT, 2048X2048)
+[2019.10.22-19.12.08:618][588]LogTexture: Display: Building textures: T_ZombieBoySkin_MAT_AO_R_M_V1 (AutoDXT, 2048X2048)
+[2019.10.22-19.12.08:618][588]LogTexture: Display: Building textures: T_ZombieBoySkin_MAT_BC_V1 (AutoDXT, 2048X2048)
+[2019.10.22-19.12.08:618][588]LogTexture: Display: Building textures: T_ZombieBoyBTM_MAT_BC_V1 (AutoDXT, 2048X2048)
+[2019.10.22-19.12.08:618][588]LogTexture: Display: Building textures: T_ZombieBoyBTM_MAT_AO_R_M_V1 (AutoDXT, 2048X2048)
+[2019.10.22-19.12.08:618][588]LogTexture: Display: Building textures: T_ZombieBoySkin_MAT_N_V1 (BC5, 2048X2048)
+[2019.10.22-19.12.08:618][588]LogTexture: Display: Building textures: T_ZombieBoyHair_MAT_N_V1 (BC5, 2048X2048)
+[2019.10.22-19.12.08:618][588]LogTexture: Display: Building textures: T_ZombieBoyBTM_MAT_N_V1 (BC5, 2048X2048)
+[2019.10.22-19.12.08:618][588]LogTexture: Display: Building textures: T_ZombieBoyTOP_MAT_N_V1 (BC5, 2048X2048)
+[2019.10.22-19.12.08:618][588]LogTexture: Display: Building textures: T_ZombieBoyHair_MAT_AO_R_M_V1 (AutoDXT, 2048X2048)
+[2019.10.22-19.12.08:619][588]LogTexture: Display: Building textures: T_ZombieBoyHair_MAT_BC_V1 (AutoDXT, 2048X2048)
+[2019.10.22-19.12.08:619][588]LogMaterial: Display: Missing cached shader map for material HairBase_MAT, compiling. 
+[2019.10.22-19.12.09:094][588]LogMaterial: Display: Missing cached shader map for material SNP_Base_MAT, compiling. 
+[2019.10.22-19.12.09:194][588]LogMaterial: Display: Missing cached shader map for material SNP_Base_MAT, compiling. 
+[2019.10.22-19.12.09:603][588]LogSkeletalMesh: Building Skeletal Mesh SK_ZombieBoy...
+[2019.10.22-19.12.09:765][588]LogSkeletalMesh: Built Skeletal Mesh [0.17s] /Game/ZombieBoy/Mesh/SK_ZombieBoy.SK_ZombieBoy
+[2019.10.22-19.13.08:952][537]LogSlate: Took 0.029237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.22-19.13.08:977][537]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-19.13.09:389][537]LogUObjectHash: Compacting FUObjectHashTables data took  40.87ms
+[2019.10.22-19.13.09:451][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.22-19.13.10:566][537]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_Auto16BE03DF24CC9A8086DE1CE984237C737.tmp' to '../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto1.umap'
+[2019.10.22-19.13.10:628][537]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 1.540
+[2019.10.22-19.13.10:628][537]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.540
+[2019.10.22-19.13.17:980][308]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ZombieBoy_PhysicsAsset)
+[2019.10.22-19.13.19:466][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.13.27:701][347]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.10.22-19.13.27:701][347]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2019.10.22-19.13.27:701][347]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2019.10.22-19.13.27:701][347]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2019.10.22-19.13.27:701][347]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2019.10.22-19.13.27:709][347]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] [4604.20] Compile of BP_ZombieBoyOneMesh successful, but with 5 Warning(s) [in 16 ms] (/Game/ZombieBoy/Blueprint/BP_ZombieBoyOneMesh.BP_ZombieBoyOneMesh)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyTOP_MAT_BC_V3 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyHair_MAT_AO_R_M_V2 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyBTM_MAT_BC_V3 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyHair_MAT_BC_V2 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyHair_MAT_BC_V3 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyHair_MAT_AO_R_M_V3 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyHair_MAT_N_V2 (BC5, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyBTM_MAT_N_V3 (BC5, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyTOP_MAT_N_V2 (BC5, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyTOP_MAT_N_V3 (BC5, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyTOP_MAT_AO_R_M_V2 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyTOP_MAT_BC_V2 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyBTM_MAT_AO_R_M_V2 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoySkin_MAT_N_V3 (BC5, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoySkin_MAT_BC_V3 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoySkin_MAT_AO_R_M_V3 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoySkin_MAT_N_V2 (BC5, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyHair_MAT_N_V3 (BC5, 2048X2048)
+[2019.10.22-19.13.40:088][347]LogTexture: Display: Building textures: T_ZombieBoySkin_MAT_AO_R_M_V2 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:088][347]LogTexture: Display: Building textures: T_ZombieBoySkin_MAT_BC_V2 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:088][347]LogTexture: Display: Building textures: T_ZombieBoyBTM_MAT_AO_R_M_V3 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:088][347]LogTexture: Display: Building textures: T_ZombieBoyBTM_MAT_N_V2 (BC5, 2048X2048)
+[2019.10.22-19.13.40:088][347]LogTexture: Display: Building textures: T_ZombieBoyBTM_MAT_BC_V2 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:088][347]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2019.10.22-19.13.40:249][347]LogAnimationCompression: Recompressing (AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_17) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.22-19.13.40:333][347]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2019.10.22-19.13.40:333][347]LogAnimationCompression: Recompressing (AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPerson_Jump.ThirdPerson_Jump) using current/default (AnimCompress_RemoveLinearKeys_16) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.22-19.13.40:344][347]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2019.10.22-19.13.40:344][347]LogAnimationCompression: Recompressing (AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPersonWalk.ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_13) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.22-19.13.40:371][347]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2019.10.22-19.13.40:371][347]LogAnimationCompression: Recompressing (AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_18) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.22-19.13.40:383][347]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPersonRun.ThirdPersonRun
+[2019.10.22-19.13.40:384][347]LogAnimationCompression: Recompressing (AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPersonRun.ThirdPersonRun) using current/default (AnimCompress_RemoveLinearKeys_15) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.22-19.13.40:426][347]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2019.10.22-19.13.40:426][347]LogAnimationCompression: Recompressing (AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPersonIdle.ThirdPersonIdle) using current/default (AnimCompress_RemoveLinearKeys_11) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.22-19.13.40:543][347]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ZombieBoy/Blueprint/BP_ZombieBoyOneMesh.BP_ZombieBoyOneMesh
+[2019.10.22-19.13.41:979][347]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0102 seconds. Added 121 classes and 0 folders.
+[2019.10.22-19.13.44:692][347]LogSlate: Took 0.032064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.22-19.13.45:109][348]LogSlate: Took 0.019098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.22-19.14.11:306][468]BlueprintLog: New page: Compile BP_ZombieBoyOneMesh
+[2019.10.22-19.14.11:312][468]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.10.22-19.14.11:312][468]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2019.10.22-19.14.11:312][468]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2019.10.22-19.14.11:313][468]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2019.10.22-19.14.11:313][468]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2019.10.22-19.14.11:751][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.10.22-19.14.11:786][468]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] [4648.27] Compile of BP_ZombieBoyOneMesh successful, but with 5 Warning(s) [in 480 ms] (/Game/ZombieBoy/Blueprint/BP_ZombieBoyOneMesh.BP_ZombieBoyOneMesh)
+[2019.10.22-19.14.21:794][165]LogRenderer: Reallocating scene render targets to support 1076x540 Format 10 NumSamples 1 (Frame:1).
+[2019.10.22-19.14.36:235][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.14.44:034][182]LogSlate: Window 'BP_ZombieBoyOneMesh' being destroyed
+[2019.10.22-19.14.44:040][182]LogSlate: Window 'BP_ZombieBoyOneMesh' being destroyed
+[2019.10.22-19.15.01:602][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.15.01:719][979]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.22-19.15.01:892][979]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.15.01:937][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.22-19.15.01:994][979]PIE: New page: PIE session: Halloween_Map (Oct 22, 2019, 9:15:01 AM)
+[2019.10.22-19.15.02:155][979]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.22-19.15.02:189][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033582s)
+[2019.10.22-19.15.02:220][979]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.22-19.15.02:254][979]LogPlayLevel: PIE: World Init took: (0.065490s)
+[2019.10.22-19.15.02:263][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.108336s)
+[2019.10.22-19.15.02:437][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.10.22-19.15.02:498][979]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.22-19.15.02:564][979]LogInit: FAudioDevice initialized.
+[2019.10.22-19.15.02:695][979]LogLoad: Game class is 'First_Person_C'
+[2019.10.22-19.15.02:755][979]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 0) at 2019.10.22-14.15.02
+[2019.10.22-19.15.03:015][979]LogWorld: Bringing up level for play took: 0.305101
+[2019.10.22-19.15.03:199][979]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.10.22-19.15.03:220][979]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.10.22-19.15.03:221][979]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.10.22-19.15.03:238][979]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 1.299
+[2019.10.22-19.15.03:238][979]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.15.19:894][874]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.15.19:904][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-19.15.19:945][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.22-19.15.19:945][874]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.15.20:023][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-19.15.20:081][874]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2019.10.22-19.15.20:114][875]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.10.22-19.15.22:060][ 91]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ZombieBoy_PhysicsAsset)
+[2019.10.22-19.15.23:364][216]Cmd: DELETE
+[2019.10.22-19.15.23:371][216]Cmd: ACTOR DELETE
+[2019.10.22-19.15.23:739][216]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.10.22-19.15.23:817][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.10.22-19.15.23:817][216]LogEditorActor: Deleted 1 Actors (0.194 secs)
+[2019.10.22-19.15.28:197][730]LogEditorViewport: Clicking on Actor (LMB): BP_ZombieBoyOneMesh_C (BP_ZombieBoyOneMesh)
+[2019.10.22-19.15.38:321][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.15.46:223][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.15.53:886][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.15.54:002][446]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.22-19.15.54:010][446]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.15.54:010][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.22-19.15.54:010][446]PIE: New page: PIE session: Halloween_Map (Oct 22, 2019, 9:15:54 AM)
+[2019.10.22-19.15.54:010][446]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.22-19.15.54:019][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009417s)
+[2019.10.22-19.15.54:020][446]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.22-19.15.54:032][446]LogPlayLevel: PIE: World Init took: (0.012651s)
+[2019.10.22-19.15.54:032][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.022255s)
+[2019.10.22-19.15.54:059][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.10.22-19.15.54:064][446]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.22-19.15.54:109][446]LogInit: FAudioDevice initialized.
+[2019.10.22-19.15.54:139][446]LogLoad: Game class is 'First_Person_C'
+[2019.10.22-19.15.54:141][446]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.22-14.15.54
+[2019.10.22-19.15.54:141][446]LogWorld: Bringing up level for play took: 0.001570
+[2019.10.22-19.15.54:154][446]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.215
+[2019.10.22-19.15.54:154][446]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.16.06:625][192]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.16.06:625][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-19.16.06:657][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.22-19.16.06:657][192]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.16.06:690][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-19.16.06:694][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.10.22-19.16.06:728][194]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.22-19.17.12:417][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.23.20:100][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.23.50:647][934]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-19.23.50:691][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.10.22-19.23.50:692][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.22-19.23.50:863][934]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_Auto289F9BD8A467A5ED80E7A3F83142B0B67.tmp' to '../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto2.umap'
+[2019.10.22-19.23.50:865][934]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 0.199
+[2019.10.22-19.23.50:865][934]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.199
+[2019.10.22-19.29.54:222][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor8)
+[2019.10.22-19.33.51:043][880]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-19.33.51:484][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.10.22-19.33.51:486][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.22-19.33.51:655][880]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_Auto374BC179044D8DA1C7CCEEB932F2D1554.tmp' to '../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto3.umap'
+[2019.10.22-19.33.51:658][880]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 0.600
+[2019.10.22-19.33.51:658][880]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.600
+[2019.10.22-19.37.25:070][917]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Horror_Ambience_Ambient_Drone_Deep_Thunder_441...
+[2019.10.22-19.37.25:529][917]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 5221440 while cooking SoundWave /Game/Horror_Ambient/Wavs/Horror_Ambience_Ambient_Drone_Deep_Thunder_441.Horror_Ambience_Ambient_Drone_Deep_Thunder_441.
+[2019.10.22-19.38.40:913][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.38.53:380][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
