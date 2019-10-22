@@ -1,0 +1,1364 @@
+﻿Log file open, 10/22/19 12:57:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Halloween_Project
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 7.262674
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.22-17.57.05:053][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.22-17.57.05:053][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.22-17.57.05:053][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GitHub/Halloween/Saved/Config/Windows/Engine.ini]
+[2019.10.22-17.57.05:053][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.22-17.57.05:053][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.10.22-17.57.05:053][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GitHub/Halloween/Saved/Config/Windows/Engine.ini]
+[2019.10.22-17.57.05:053][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GitHub/Halloween/Saved/Config/Windows/Engine.ini]
+[2019.10.22-17.57.05:053][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.22-17.57.05:053][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.22-17.57.05:053][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.22-17.57.05:053][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.22-17.57.05:053][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.22-17.57.05:054][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.22-17.57.05:054][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.22-17.57.05:054][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.22-17.57.05:054][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.22-17.57.05:054][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.22-17.57.05:054][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.22-17.57.05:054][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.22-17.57.05:054][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.22-17.57.05:054][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GitHub/Halloween/Saved/Config/Windows/Engine.ini]
+[2019.10.22-17.57.05:054][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.22-17.57.05:054][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.22-17.57.05:054][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.22-17.57.05:054][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.22-17.57.05:054][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.22-17.57.05:054][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.22-17.57.05:054][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.22-17.57.05:054][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.22-17.57.05:054][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.22-17.57.05:054][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.22-17.57.05:054][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.22-17.57.05:054][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.22-17.57.05:054][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.22-17.57.05:054][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GitHub/Halloween/Saved/Config/Windows/Engine.ini]
+[2019.10.22-17.57.05:054][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GitHub/Halloween/Saved/Config/Windows/Engine.ini]
+[2019.10.22-17.57.05:151][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/Halloween/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.57.05:151][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.22-17.57.05:151][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.22-17.57.05:151][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/Halloween/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.57.05:151][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.22-17.57.05:151][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/Halloween/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.57.05:151][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.22-17.57.05:151][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.22-17.57.05:151][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.22-17.57.05:151][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.22-17.57.05:151][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.22-17.57.05:151][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.22-17.57.05:151][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/Halloween/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/Halloween/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/Halloween/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/Halloween/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.22-17.57.05:152][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.22-17.57.05:164][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.22-17.57.05:164][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.22-17.57.05:242][  0]LogHAL: Display: Platform has ~ 16 GB [17052700672 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.22-17.57.05:275][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.10.22-17.57.05:275][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.22-17.57.05:275][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GitHub/Halloween/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.57.05:275][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.22-17.57.05:275][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.22-17.57.05:275][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GitHub/Halloween/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.57.05:275][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.22-17.57.05:275][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GitHub/Halloween/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.57.05:275][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.22-17.57.05:275][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.22-17.57.05:275][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.22-17.57.05:275][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.22-17.57.05:275][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.22-17.57.05:275][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.22-17.57.05:275][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.22-17.57.05:275][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.22-17.57.05:275][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.22-17.57.05:275][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.22-17.57.05:275][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GitHub/Halloween/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GitHub/Halloween/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GitHub/Halloween/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GitHub/Halloween/Saved/Config/Windows/Scalability.ini]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.22-17.57.05:276][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.22-17.57.05:298][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.22-17.57.05:298][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.22-17.57.05:298][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GitHub/Halloween/Saved/Config/Windows/Engine.ini]
+[2019.10.22-17.57.05:341][  0]LogInit: Computer: MSI
+[2019.10.22-17.57.05:341][  0]LogInit: User: Luis
+[2019.10.22-17.57.05:341][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.10.22-17.57.05:341][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.22-17.57.05:371][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.10.22-17.57.05:371][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.22-17.57.05:372][  0]LogMemory: Process Physical Memory: 97.38 MB used, 97.38 MB peak
+[2019.10.22-17.57.05:372][  0]LogMemory: Process Virtual Memory: 89.99 MB used, 89.99 MB peak
+[2019.10.22-17.57.05:372][  0]LogMemory: Physical Memory: 8008.92 MB used,  8253.80 MB free, 16262.72 MB total
+[2019.10.22-17.57.05:372][  0]LogMemory: Virtual Memory: 4660.46 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.10.22-17.57.06:293][  0]LogInit: Using OS detected language (en-US).
+[2019.10.22-17.57.06:293][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.22-17.57.06:326][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.22-17.57.06:884][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.22-17.57.07:550][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.22-17.57.07:551][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.22-17.57.08:623][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.22-17.57.08:623][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.22-17.57.08:696][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.10.22-17.57.08:696][  0]LogD3D11RHI:       6052/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.10.22-17.57.08:716][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.10.22-17.57.08:716][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.10.22-17.57.08:720][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.22-17.57.08:720][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.22-17.57.08:720][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.22-17.57.08:768][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.22-17.57.08:768][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.22-17.57.08:768][  0]LogWindows: EnumDisplayDevices:
+[2019.10.22-17.57.08:769][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.10.22-17.57.08:769][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.22-17.57.08:769][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.10.22-17.57.08:769][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.10.22-17.57.08:770][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.10.22-17.57.08:770][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.10.22-17.57.08:770][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.10.22-17.57.08:770][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.10.22-17.57.08:770][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.10.22-17.57.08:770][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2019.10.22-17.57.08:770][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2019.10.22-17.57.08:770][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.10.22-17.57.08:818][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.22-17.57.09:062][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.22-17.57.09:068][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.22-17.57.09:068][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.22-17.57.09:136][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.22-17.57.10:155][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.22-17.57.10:180][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.22-17.57.10:209][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.22-17.57.10:233][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.22-17.57.10:334][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.22-17.57.10:391][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.22-17.57.10:405][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.22-17.57.10:431][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.22-17.57.10:439][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.22-17.57.10:529][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.22-17.57.10:529][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.22-17.57.10:529][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.22-17.57.10:529][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.22-17.57.10:529][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.22-17.57.10:529][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.22-17.57.10:529][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.22-17.57.10:529][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.22-17.57.10:529][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.22-17.57.10:529][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.22-17.57.10:529][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.22-17.57.10:529][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.22-17.57.10:529][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.22-17.57.10:529][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.22-17.57.10:529][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.22-17.57.10:529][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.22-17.57.10:529][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.22-17.57.10:529][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.22-17.57.10:544][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.22-17.57.10:643][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.22-17.57.10:644][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.22-17.57.10:683][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.22-17.57.10:683][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.22-17.57.10:714][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.22-17.57.10:737][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.22-17.57.10:829][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.22-17.57.10:890][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.22-17.57.10:985][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.22-17.57.10:985][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.22-17.57.10:985][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.22-17.57.11:145][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.22-17.57.11:763][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (../../../../GitHub/Halloween/Intermediate/Shaders/WorkingDirectory/13168/).
+[2019.10.22-17.57.11:763][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Luis/AppData/Local/Temp/UnrealShaderWorkingDir/7C9D6D884AC56A5B372BBC8C00EA94EF/'.
+[2019.10.22-17.57.11:801][  0]LogXGEController: Cleaning working directory: C:/Users/Luis/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.22-17.57.11:801][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.22-17.57.11:802][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.22-17.57.11:802][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.22-17.57.13:923][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.22-17.57.14:231][  0]LogDerivedDataCache: Loaded boot cache 0.30s 71MB C:/Users/Luis/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.22-17.57.14:231][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Luis/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.10.22-17.57.14:231][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../GitHub/Halloween/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.22-17.57.14:231][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.22-17.57.14:231][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../GitHub/Halloween/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.22-17.57.14:231][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.22-17.57.14:308][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.22-17.57.14:308][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.22-17.57.14:308][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.22-17.57.14:322][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Luis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.22-17.57.14:322][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.22-17.57.14:322][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.22-17.57.14:409][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.22-17.57.14:514][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.22-17.57.14:610][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.22-17.57.15:433][  0]LogAssetRegistry: FAssetRegistry took 0.0344 seconds to start up
+[2019.10.22-17.57.20:253][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.22-17.57.21:686][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.22-17.57.21:686][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.22-17.57.21:686][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.22-17.57.21:686][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.22-17.57.21:687][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.22-17.57.22:032][  0]LogNetVersion: Halloween_Project 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2161751771)
+[2019.10.22-17.57.26:333][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.181154 seconds
+[2019.10.22-17.57.26:422][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.10.22-17.57.26:422][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.10.22-17.57.26:422][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.22-17.57.35:889][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.22-17.57.35:922][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.22-17.57.36:573][  0]SourceControl: Source control is disabled
+[2019.10.22-17.57.36:573][  0]SourceControl: Source control is disabled
+[2019.10.22-17.57.36:648][  0]SourceControl: Source control is disabled
+[2019.10.22-17.57.36:658][  0]SourceControl: Source control is disabled
+[2019.10.22-17.57.38:332][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.22-17.57.39:516][  0]LogOcInput: OculusInput pre-init called
+[2019.10.22-17.57.42:735][  0]LogEngine: Initializing Engine...
+[2019.10.22-17.57.42:838][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.22-17.57.42:840][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.22-17.57.43:657][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.22-17.57.44:125][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.22-17.57.44:261][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.22-17.57.44:343][  0]LogInit: FAudioDevice initialized.
+[2019.10.22-17.57.44:343][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.22-17.57.44:484][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/Luis/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.22-17.57.44:488][  0]LogInit: Texture streaming: Enabled
+[2019.10.22-17.57.44:716][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.22-17.57.45:038][  0]LogInit: Transaction tracking system initialized
+[2019.10.22-17.57.45:670][  0]BlueprintLog: New page: Editor Load
+[2019.10.22-17.57.47:062][  0]LocalizationService: Localization service is disabled
+[2019.10.22-17.57.50:485][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Halloween/Content/' took 0.03s
+[2019.10.22-17.57.50:485][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.22-17.57.50:486][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.22-17.57.53:319][  0]SourceControl: Source control is disabled
+[2019.10.22-17.57.53:399][  0]Cmd: MAP LOAD FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.22-17.57.53:401][  0]LightingResults: New page: Lighting Build
+[2019.10.22-17.57.53:568][  0]MapCheck: New page: Map Check
+[2019.10.22-17.57.53:568][  0]LightingResults: New page: Lighting Build
+[2019.10.22-17.57.53:898][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.10.22-17.57.54:535][  0]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.22-17.57.55:238][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.22-17.57.55:330][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.10.22-17.57.55:331][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.22-17.57.55:331][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.097ms to complete.
+[2019.10.22-17.57.55:331][  0]LogFileHelpers: Loading map 'Halloween_Map' took 2.003
+[2019.10.22-17.57.56:930][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-17.57.56:938][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-17.57.56:944][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-17.57.56:951][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-17.57.57:088][  0]LogCollectionManager: Loaded 0 collections in 0.000747 seconds
+[2019.10.22-17.57.57:193][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Halloween/Saved/Collections/' took 0.01s
+[2019.10.22-17.57.57:193][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Halloween/Content/Developers/Luis/Collections/' took 0.01s
+[2019.10.22-17.57.57:193][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub/Halloween/Content/Collections/' took 0.00s
+[2019.10.22-17.57.57:193][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.10.22-17.57.57:222][  0]LogContentBrowser: Native class hierarchy populated in 0.0131 seconds. Added 2732 classes and 659 folders.
+[2019.10.22-17.57.57:324][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.22-17.57.57:394][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:415][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:425][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:434][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:446][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:497][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:515][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:517][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:518][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:519][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:520][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:521][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:522][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:524][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:525][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:526][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:527][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:546][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:547][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:548][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:550][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:551][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:560][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:581][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.57:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.22-17.57.58:085][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.22-17.57.58:246][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.10.22-17.57.59:341][  0]LogSlate: Took 0.027192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.22-17.57.59:349][  0]LogSlate: Took 0.006442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.22-17.57.59:391][  0]LogSlate: Took 0.025165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.22-17.57.59:930][  0]LogRenderer: Reallocating scene render targets to support 872x456 Format 10 NumSamples 1 (Frame:1).
+[2019.10.22-17.58.00:539][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.22-17.58.00:539][  0]LogLoad: (Engine Initialization) Total time: 77.03 seconds
+[2019.10.22-17.58.00:539][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.22-17.58.00:848][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.22-17.58.00:908][  0]LogSlate: Took 0.001087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.22-17.58.01:020][  1]LogAssetRegistry: Asset discovery search completed in 45.6094 seconds
+[2019.10.22-17.58.01:102][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.10.22-17.58.01:102][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2019.10.22-18.24.10:493][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-18.24.10:600][965]LogRenderer: Reallocating scene render targets to support 876x456 Format 10 NumSamples 1 (Frame:294).
+[2019.10.22-18.24.10:742][966]LogRenderer: Reallocating scene render targets to support 888x456 Format 10 NumSamples 1 (Frame:296).
+[2019.10.22-18.24.10:807][967]LogRenderer: Reallocating scene render targets to support 988x456 Format 10 NumSamples 1 (Frame:298).
+[2019.10.22-18.24.10:871][968]LogRenderer: Reallocating scene render targets to support 1008x456 Format 10 NumSamples 1 (Frame:300).
+[2019.10.22-18.24.10:939][969]LogRenderer: Reallocating scene render targets to support 1024x456 Format 10 NumSamples 1 (Frame:302).
+[2019.10.22-18.24.10:994][970]LogRenderer: Reallocating scene render targets to support 1040x456 Format 10 NumSamples 1 (Frame:304).
+[2019.10.22-18.24.11:032][971]LogRenderer: Reallocating scene render targets to support 1048x456 Format 10 NumSamples 1 (Frame:306).
+[2019.10.22-18.24.11:070][972]LogRenderer: Reallocating scene render targets to support 1052x456 Format 10 NumSamples 1 (Frame:308).
+[2019.10.22-18.24.11:107][973]LogRenderer: Reallocating scene render targets to support 1056x456 Format 10 NumSamples 1 (Frame:310).
+[2019.10.22-18.24.11:146][974]LogRenderer: Reallocating scene render targets to support 1060x456 Format 10 NumSamples 1 (Frame:312).
+[2019.10.22-18.24.11:181][975]LogRenderer: Reallocating scene render targets to support 1064x456 Format 10 NumSamples 1 (Frame:314).
+[2019.10.22-18.24.11:250][977]LogRenderer: Reallocating scene render targets to support 1068x456 Format 10 NumSamples 1 (Frame:318).
+[2019.10.22-18.24.11:409][987]LogRenderer: Reallocating scene render targets to support 1072x456 Format 10 NumSamples 1 (Frame:324).
+[2019.10.22-18.24.11:479][989]LogRenderer: Reallocating scene render targets to support 1076x456 Format 10 NumSamples 1 (Frame:328).
+[2019.10.22-18.29.47:225][372]LogDirectoryWatcher: A directory notification failed for 'D:/GitHub/Halloween/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2019.10.22-18.29.47:225][372]LogDirectoryWatcher: A directory notification failed for 'D:/GitHub/Halloween/Content/Developers/Luis/Collections/' because it could not be accessed. Aborting watch request...
+[2019.10.22-18.29.47:225][372]LogDirectoryWatcher: A directory notification failed for 'D:/GitHub/Halloween/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2019.10.22-19.12.08:618][588]LogTexture: Display: Building textures: T_ZombieBoyTOP_MAT_BC_V1 (AutoDXT, 2048X2048)
+[2019.10.22-19.12.08:618][588]LogTexture: Display: Building textures: T_ZombieBoyTOP_MAT_AO_R_M_V1 (AutoDXT, 2048X2048)
+[2019.10.22-19.12.08:618][588]LogTexture: Display: Building textures: T_ZombieBoySkin_MAT_AO_R_M_V1 (AutoDXT, 2048X2048)
+[2019.10.22-19.12.08:618][588]LogTexture: Display: Building textures: T_ZombieBoySkin_MAT_BC_V1 (AutoDXT, 2048X2048)
+[2019.10.22-19.12.08:618][588]LogTexture: Display: Building textures: T_ZombieBoyBTM_MAT_BC_V1 (AutoDXT, 2048X2048)
+[2019.10.22-19.12.08:618][588]LogTexture: Display: Building textures: T_ZombieBoyBTM_MAT_AO_R_M_V1 (AutoDXT, 2048X2048)
+[2019.10.22-19.12.08:618][588]LogTexture: Display: Building textures: T_ZombieBoySkin_MAT_N_V1 (BC5, 2048X2048)
+[2019.10.22-19.12.08:618][588]LogTexture: Display: Building textures: T_ZombieBoyHair_MAT_N_V1 (BC5, 2048X2048)
+[2019.10.22-19.12.08:618][588]LogTexture: Display: Building textures: T_ZombieBoyBTM_MAT_N_V1 (BC5, 2048X2048)
+[2019.10.22-19.12.08:618][588]LogTexture: Display: Building textures: T_ZombieBoyTOP_MAT_N_V1 (BC5, 2048X2048)
+[2019.10.22-19.12.08:618][588]LogTexture: Display: Building textures: T_ZombieBoyHair_MAT_AO_R_M_V1 (AutoDXT, 2048X2048)
+[2019.10.22-19.12.08:619][588]LogTexture: Display: Building textures: T_ZombieBoyHair_MAT_BC_V1 (AutoDXT, 2048X2048)
+[2019.10.22-19.12.08:619][588]LogMaterial: Display: Missing cached shader map for material HairBase_MAT, compiling. 
+[2019.10.22-19.12.09:094][588]LogMaterial: Display: Missing cached shader map for material SNP_Base_MAT, compiling. 
+[2019.10.22-19.12.09:194][588]LogMaterial: Display: Missing cached shader map for material SNP_Base_MAT, compiling. 
+[2019.10.22-19.12.09:603][588]LogSkeletalMesh: Building Skeletal Mesh SK_ZombieBoy...
+[2019.10.22-19.12.09:765][588]LogSkeletalMesh: Built Skeletal Mesh [0.17s] /Game/ZombieBoy/Mesh/SK_ZombieBoy.SK_ZombieBoy
+[2019.10.22-19.13.08:952][537]LogSlate: Took 0.029237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.22-19.13.08:977][537]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-19.13.09:389][537]LogUObjectHash: Compacting FUObjectHashTables data took  40.87ms
+[2019.10.22-19.13.09:451][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.22-19.13.10:566][537]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_Auto16BE03DF24CC9A8086DE1CE984237C737.tmp' to '../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto1.umap'
+[2019.10.22-19.13.10:628][537]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 1.540
+[2019.10.22-19.13.10:628][537]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.540
+[2019.10.22-19.13.17:980][308]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ZombieBoy_PhysicsAsset)
+[2019.10.22-19.13.19:466][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.13.27:701][347]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.10.22-19.13.27:701][347]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2019.10.22-19.13.27:701][347]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2019.10.22-19.13.27:701][347]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2019.10.22-19.13.27:701][347]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2019.10.22-19.13.27:709][347]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] [4604.20] Compile of BP_ZombieBoyOneMesh successful, but with 5 Warning(s) [in 16 ms] (/Game/ZombieBoy/Blueprint/BP_ZombieBoyOneMesh.BP_ZombieBoyOneMesh)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyTOP_MAT_BC_V3 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyHair_MAT_AO_R_M_V2 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyBTM_MAT_BC_V3 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyHair_MAT_BC_V2 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyHair_MAT_BC_V3 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyHair_MAT_AO_R_M_V3 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyHair_MAT_N_V2 (BC5, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyBTM_MAT_N_V3 (BC5, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyTOP_MAT_N_V2 (BC5, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyTOP_MAT_N_V3 (BC5, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyTOP_MAT_AO_R_M_V2 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyTOP_MAT_BC_V2 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyBTM_MAT_AO_R_M_V2 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoySkin_MAT_N_V3 (BC5, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoySkin_MAT_BC_V3 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoySkin_MAT_AO_R_M_V3 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoySkin_MAT_N_V2 (BC5, 2048X2048)
+[2019.10.22-19.13.40:087][347]LogTexture: Display: Building textures: T_ZombieBoyHair_MAT_N_V3 (BC5, 2048X2048)
+[2019.10.22-19.13.40:088][347]LogTexture: Display: Building textures: T_ZombieBoySkin_MAT_AO_R_M_V2 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:088][347]LogTexture: Display: Building textures: T_ZombieBoySkin_MAT_BC_V2 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:088][347]LogTexture: Display: Building textures: T_ZombieBoyBTM_MAT_AO_R_M_V3 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:088][347]LogTexture: Display: Building textures: T_ZombieBoyBTM_MAT_N_V2 (BC5, 2048X2048)
+[2019.10.22-19.13.40:088][347]LogTexture: Display: Building textures: T_ZombieBoyBTM_MAT_BC_V2 (AutoDXT, 2048X2048)
+[2019.10.22-19.13.40:088][347]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2019.10.22-19.13.40:249][347]LogAnimationCompression: Recompressing (AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_17) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.22-19.13.40:333][347]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2019.10.22-19.13.40:333][347]LogAnimationCompression: Recompressing (AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPerson_Jump.ThirdPerson_Jump) using current/default (AnimCompress_RemoveLinearKeys_16) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.22-19.13.40:344][347]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2019.10.22-19.13.40:344][347]LogAnimationCompression: Recompressing (AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPersonWalk.ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_13) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.22-19.13.40:371][347]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2019.10.22-19.13.40:371][347]LogAnimationCompression: Recompressing (AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_18) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.22-19.13.40:383][347]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPersonRun.ThirdPersonRun
+[2019.10.22-19.13.40:384][347]LogAnimationCompression: Recompressing (AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPersonRun.ThirdPersonRun) using current/default (AnimCompress_RemoveLinearKeys_15) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.22-19.13.40:426][347]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2019.10.22-19.13.40:426][347]LogAnimationCompression: Recompressing (AnimSequence /Game/ZombieBoy/DemoContent/Animations/ThirdPersonIdle.ThirdPersonIdle) using current/default (AnimCompress_RemoveLinearKeys_11) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.22-19.13.40:543][347]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ZombieBoy/Blueprint/BP_ZombieBoyOneMesh.BP_ZombieBoyOneMesh
+[2019.10.22-19.13.41:979][347]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0102 seconds. Added 121 classes and 0 folders.
+[2019.10.22-19.13.44:692][347]LogSlate: Took 0.032064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.22-19.13.45:109][348]LogSlate: Took 0.019098 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.22-19.14.11:306][468]BlueprintLog: New page: Compile BP_ZombieBoyOneMesh
+[2019.10.22-19.14.11:312][468]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.10.22-19.14.11:312][468]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2019.10.22-19.14.11:312][468]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2019.10.22-19.14.11:313][468]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2019.10.22-19.14.11:313][468]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2019.10.22-19.14.11:751][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.10.22-19.14.11:786][468]LogBlueprint: Warning: [Compiler BP_ZombieBoyOneMesh] [4648.27] Compile of BP_ZombieBoyOneMesh successful, but with 5 Warning(s) [in 480 ms] (/Game/ZombieBoy/Blueprint/BP_ZombieBoyOneMesh.BP_ZombieBoyOneMesh)
+[2019.10.22-19.14.21:794][165]LogRenderer: Reallocating scene render targets to support 1076x540 Format 10 NumSamples 1 (Frame:1).
+[2019.10.22-19.14.36:235][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.14.44:034][182]LogSlate: Window 'BP_ZombieBoyOneMesh' being destroyed
+[2019.10.22-19.14.44:040][182]LogSlate: Window 'BP_ZombieBoyOneMesh' being destroyed
+[2019.10.22-19.15.01:602][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.15.01:719][979]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.22-19.15.01:892][979]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.15.01:937][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.22-19.15.01:994][979]PIE: New page: PIE session: Halloween_Map (Oct 22, 2019, 9:15:01 AM)
+[2019.10.22-19.15.02:155][979]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.22-19.15.02:189][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033582s)
+[2019.10.22-19.15.02:220][979]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.22-19.15.02:254][979]LogPlayLevel: PIE: World Init took: (0.065490s)
+[2019.10.22-19.15.02:263][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.108336s)
+[2019.10.22-19.15.02:437][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.10.22-19.15.02:498][979]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.22-19.15.02:564][979]LogInit: FAudioDevice initialized.
+[2019.10.22-19.15.02:695][979]LogLoad: Game class is 'First_Person_C'
+[2019.10.22-19.15.02:755][979]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 0) at 2019.10.22-14.15.02
+[2019.10.22-19.15.03:015][979]LogWorld: Bringing up level for play took: 0.305101
+[2019.10.22-19.15.03:199][979]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.10.22-19.15.03:220][979]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.10.22-19.15.03:221][979]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.10.22-19.15.03:238][979]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 1.299
+[2019.10.22-19.15.03:238][979]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.15.19:894][874]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.15.19:904][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-19.15.19:945][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.22-19.15.19:945][874]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.15.20:023][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-19.15.20:081][874]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2019.10.22-19.15.20:114][875]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.10.22-19.15.22:060][ 91]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ZombieBoy_PhysicsAsset)
+[2019.10.22-19.15.23:364][216]Cmd: DELETE
+[2019.10.22-19.15.23:371][216]Cmd: ACTOR DELETE
+[2019.10.22-19.15.23:739][216]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.10.22-19.15.23:817][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.10.22-19.15.23:817][216]LogEditorActor: Deleted 1 Actors (0.194 secs)
+[2019.10.22-19.15.28:197][730]LogEditorViewport: Clicking on Actor (LMB): BP_ZombieBoyOneMesh_C (BP_ZombieBoyOneMesh)
+[2019.10.22-19.15.38:321][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.15.46:223][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.15.53:886][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.15.54:002][446]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.22-19.15.54:010][446]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.15.54:010][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.22-19.15.54:010][446]PIE: New page: PIE session: Halloween_Map (Oct 22, 2019, 9:15:54 AM)
+[2019.10.22-19.15.54:010][446]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.22-19.15.54:019][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009417s)
+[2019.10.22-19.15.54:020][446]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.22-19.15.54:032][446]LogPlayLevel: PIE: World Init took: (0.012651s)
+[2019.10.22-19.15.54:032][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.022255s)
+[2019.10.22-19.15.54:059][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.10.22-19.15.54:064][446]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.22-19.15.54:109][446]LogInit: FAudioDevice initialized.
+[2019.10.22-19.15.54:139][446]LogLoad: Game class is 'First_Person_C'
+[2019.10.22-19.15.54:141][446]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.22-14.15.54
+[2019.10.22-19.15.54:141][446]LogWorld: Bringing up level for play took: 0.001570
+[2019.10.22-19.15.54:154][446]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.215
+[2019.10.22-19.15.54:154][446]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.16.06:625][192]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.16.06:625][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-19.16.06:657][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.22-19.16.06:657][192]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.16.06:690][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-19.16.06:694][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.10.22-19.16.06:728][194]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.22-19.17.12:417][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.23.20:100][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.23.50:647][934]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-19.23.50:691][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.10.22-19.23.50:692][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.22-19.23.50:863][934]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_Auto289F9BD8A467A5ED80E7A3F83142B0B67.tmp' to '../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto2.umap'
+[2019.10.22-19.23.50:865][934]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 0.199
+[2019.10.22-19.23.50:865][934]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.199
+[2019.10.22-19.29.54:222][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor8)
+[2019.10.22-19.33.51:043][880]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-19.33.51:484][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.10.22-19.33.51:486][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.22-19.33.51:655][880]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_Auto374BC179044D8DA1C7CCEEB932F2D1554.tmp' to '../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto3.umap'
+[2019.10.22-19.33.51:658][880]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 0.600
+[2019.10.22-19.33.51:658][880]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.600
+[2019.10.22-19.37.25:070][917]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Horror_Ambience_Ambient_Drone_Deep_Thunder_441...
+[2019.10.22-19.37.25:529][917]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 5221440 while cooking SoundWave /Game/Horror_Ambient/Wavs/Horror_Ambience_Ambient_Drone_Deep_Thunder_441.Horror_Ambience_Ambient_Drone_Deep_Thunder_441.
+[2019.10.22-19.38.40:913][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.38.53:380][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.39.14:928][407]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-19.39.21:075][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.39.23:116][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.39.25:991][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.39.27:591][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.39.29:054][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.39.32:832][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.39.37:031][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.39.38:614][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.39.44:432][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.39.51:783][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.39.51:881][438]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.22-19.39.51:889][438]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.39.51:889][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.22-19.39.51:889][438]PIE: New page: PIE session: Halloween_Map (Oct 22, 2019, 9:39:51 AM)
+[2019.10.22-19.39.51:889][438]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.22-19.39.51:899][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009695s)
+[2019.10.22-19.39.51:900][438]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.22-19.39.51:900][438]LogPlayLevel: PIE: World Init took: (0.000652s)
+[2019.10.22-19.39.51:900][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.010494s)
+[2019.10.22-19.39.51:923][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2019.10.22-19.39.51:930][438]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.22-19.39.51:979][438]LogInit: FAudioDevice initialized.
+[2019.10.22-19.39.52:011][438]LogLoad: Game class is 'First_Person_C'
+[2019.10.22-19.39.52:013][438]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.22-14.39.52
+[2019.10.22-19.39.52:014][438]LogWorld: Bringing up level for play took: 0.001960
+[2019.10.22-19.39.52:027][438]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.088
+[2019.10.22-19.39.52:027][438]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.40.17:187][947]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.40.17:188][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-19.40.17:218][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.22-19.40.17:218][947]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.40.17:248][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-19.40.17:252][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.10.22-19.40.17:303][950]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.22-19.40.56:004][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2019.10.22-19.41.26:449][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.41.33:737][458]Cmd: TRANSACTION UNDO
+[2019.10.22-19.41.33:737][458]LogEditorTransaction: Undo Apply Material to Surface
+[2019.10.22-19.41.37:700][693]Cmd: TRANSACTION UNDO
+[2019.10.22-19.41.37:700][693]LogEditorTransaction: Undo Apply Material to Selected Surfaces
+[2019.10.22-19.41.52:186][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.43.08:146][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.43.15:878][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.43.24:577][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.43.36:178][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.43.36:278][763]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.22-19.43.36:286][763]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.43.36:286][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.22-19.43.36:286][763]PIE: New page: PIE session: Halloween_Map (Oct 22, 2019, 9:43:36 AM)
+[2019.10.22-19.43.36:286][763]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.22-19.43.36:296][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009647s)
+[2019.10.22-19.43.36:296][763]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.22-19.43.36:297][763]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2019.10.22-19.43.36:297][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.010579s)
+[2019.10.22-19.43.36:325][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.10.22-19.43.36:331][763]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.22-19.43.36:377][763]LogInit: FAudioDevice initialized.
+[2019.10.22-19.43.36:404][763]LogLoad: Game class is 'First_Person_C'
+[2019.10.22-19.43.36:406][763]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.22-14.43.36
+[2019.10.22-19.43.36:406][763]LogWorld: Bringing up level for play took: 0.001830
+[2019.10.22-19.43.36:419][763]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.479
+[2019.10.22-19.43.36:419][763]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.43.51:975][689]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.43.51:975][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-19.43.52:004][689]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.22-19.43.52:005][689]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.43.52:033][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-19.43.52:036][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.10.22-19.43.52:085][692]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.22-19.43.54:488][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.44.14:412][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.44.28:818][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.44.38:303][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.44.38:402][400]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.22-19.44.38:410][400]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.44.38:410][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.22-19.44.38:410][400]PIE: New page: PIE session: Halloween_Map (Oct 22, 2019, 9:44:38 AM)
+[2019.10.22-19.44.38:410][400]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.22-19.44.38:420][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010558s)
+[2019.10.22-19.44.38:421][400]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.22-19.44.38:421][400]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2019.10.22-19.44.38:421][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.011475s)
+[2019.10.22-19.44.38:444][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.10.22-19.44.38:449][400]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.22-19.44.38:493][400]LogInit: FAudioDevice initialized.
+[2019.10.22-19.44.38:520][400]LogLoad: Game class is 'First_Person_C'
+[2019.10.22-19.44.38:522][400]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.22-14.44.38
+[2019.10.22-19.44.38:522][400]LogWorld: Bringing up level for play took: 0.001726
+[2019.10.22-19.44.38:535][400]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.596
+[2019.10.22-19.44.38:535][400]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.45.05:412][ 12]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.45.05:412][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-19.45.05:440][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.22-19.45.05:440][ 12]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.45.05:471][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-19.45.05:474][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.10.22-19.45.05:526][ 15]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.10.22-19.45.11:515][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.45.12:712][377]LogTexture: Display: Building textures: t_wood_floor_01_n (BC5, 1024X1024)
+[2019.10.22-19.45.12:712][377]LogTexture: Display: Building textures: t_wood_floor_01_r (AutoDXT, 1024X1024)
+[2019.10.22-19.45.12:712][377]LogTexture: Display: Building textures: t_wood_floor_01_d (AutoDXT, 1024X1024)
+[2019.10.22-19.45.12:712][377]LogMaterial: Display: Missing cached shader map for material m_wood_floor_worn, compiling. 
+[2019.10.22-19.45.20:134][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.45.22:175][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.45.24:023][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.45.45:842][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.46.18:341][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.46.24:739][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.46.38:341][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.46.42:878][654]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.22-19.46.52:801][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.47.09:636][233]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-19.47.43:255][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.10.22-19.47.43:256][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.22-19.47.43:444][867]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_Auto411E0910C45F5534B861772840D89438C.tmp' to '../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto4.umap'
+[2019.10.22-19.47.43:445][867]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 0.215
+[2019.10.22-19.47.43:445][867]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.215
+[2019.10.22-19.55.39:292][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.55.43:595][771]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.22-19.55.43:610][771]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.55.43:611][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.22-19.55.43:611][771]PIE: New page: PIE session: Halloween_Map (Oct 22, 2019, 9:55:43 AM)
+[2019.10.22-19.55.43:611][771]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.22-19.55.43:624][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012766s)
+[2019.10.22-19.55.43:624][771]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.22-19.55.43:625][771]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2019.10.22-19.55.43:625][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.013942s)
+[2019.10.22-19.55.43:652][771]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.10.22-19.55.43:659][771]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.22-19.55.43:719][771]LogInit: FAudioDevice initialized.
+[2019.10.22-19.55.43:752][771]LogLoad: Game class is 'First_Person_C'
+[2019.10.22-19.55.43:755][771]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.22-14.55.43
+[2019.10.22-19.55.43:756][771]LogWorld: Bringing up level for play took: 0.002529
+[2019.10.22-19.55.43:769][771]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map -0.17
+[2019.10.22-19.55.43:769][771]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.56.00:423][768]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.56.00:424][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-19.56.00:453][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.22-19.56.00:453][768]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.56.00:487][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-19.56.00:492][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.10.22-19.56.00:538][770]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.10.22-19.56.01:890][837]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-19.56.03:790][945]MapCheck: New page: Map Check
+[2019.10.22-19.56.03:817][945]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.22-19.56.03:834][945]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.22-19.56.04:134][945]LogEditorServer: Cleared 3 NULL BSP materials after rebuild.
+[2019.10.22-19.56.04:229][945]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.10.22-19.56.04:271][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.10.22-19.56.04:326][945]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.22-19.56.04:336][945]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.22-19.56.04:344][945]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.22-19.56.04:392][945]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.10.22-19.56.04:536][945]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.22-19.56.04:550][945]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.22-19.56.04:563][945]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.22-19.56.04:576][945]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.22-19.56.04:587][945]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.22-19.56.04:599][945]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.22-19.56.04:614][945]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.22-19.56.06:726][945]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.22-19.56.06:726][945]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.22-19.56.06:726][945]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.22-19.56.06:726][945]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.22-19.56.06:726][945]TextureStreamingBuild: Display: Compiling optional shaders took 2.418 seconds.
+[2019.10.22-19.56.06:853][945]LogLevel: Display: Export Material TexCoord Scales took 0.126 seconds.
+[2019.10.22-19.56.06:922][945]TextureStreamingBuild: Display: Build Texture Streaming took 0.047 seconds.
+[2019.10.22-19.56.06:950][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.10.22-19.56.06:996][945]LightingResults: New page: Lighting Build - Oct 22, 2019, 9:56:06 AM
+[2019.10.22-19.56.07:267][945]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.22-19.56.07:407][945]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.22-19.56.07:429][945]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.22-19.56.08:467][945]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.22-19.56.08:467][945]LogSwarmInterface: [TryOpenConnection] Local Process ID is 13168
+[2019.10.22-19.56.15:119][945]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.10.22-19.56.15:120][945]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.22-19.56.15:120][945]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.22-19.56.15:120][945]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.22-19.56.15:120][945]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.22-19.56.15:120][945]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.22-19.56.15:468][945]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.10.22-19.56.15:469][945]MapCheck: New page: Halloween_Map - Oct 22, 2019, 9:56:15 AM
+[2019.10.22-19.56.15:474][945]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.10.22-19.56.15:532][945]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 62.904ms to complete.
+[2019.10.22-19.56.15:554][945]LogEditorBuildUtils: Build time 0:11
+[2019.10.22-19.56.15:941][945]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer m_concrete, compiling. 
+[2019.10.22-19.56.15:949][945]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer m_concrete, compiling. 
+[2019.10.22-19.56.16:037][947]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer m_asphalt, compiling. 
+[2019.10.22-19.56.16:045][947]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer m_asphalt, compiling. 
+[2019.10.22-19.56.16:073][948]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer m_wood_floor_worn, compiling. 
+[2019.10.22-19.56.16:101][948]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer m_wood_floor_worn, compiling. 
+[2019.10.22-19.56.16:120][949]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_diamondplate_rusty_chrome, compiling. 
+[2019.10.22-19.56.16:135][949]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_diamondplate_rusty_chrome, compiling. 
+[2019.10.22-19.56.17:214][958]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.10.22-19.56.21:954][122]Job is a success!
+[2019.10.22-19.56.22:110][123]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-19.56.22:227][123]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2019.10.22-19.56.22:227][123]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.10.22-19.56.22:227][123]LogVolumetricLightmapImport:      BrickData 300x5x5 = 0.3Mb
+[2019.10.22-19.56.22:227][123]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.22-19.56.22:227][123]LogVolumetricLightmapImport:          0: 1.7% covering 100.0% of volume
+[2019.10.22-19.56.22:227][123]LogVolumetricLightmapImport:          1: 6.7% covering 6.3% of volume
+[2019.10.22-19.56.22:227][123]LogVolumetricLightmapImport:          2: 91.7% covering 1.3% of volume
+[2019.10.22-19.56.22:573][123]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.10.22-19.56.22:573][123]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.10.22-19.56.22:573][123]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2019.10.22-19.56.22:573][123]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2019.10.22-19.56.22:573][123]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.10.22-19.56.22:573][123]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.10.22-19.56.22:573][123]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2019.10.22-19.56.22:573][123]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 128X256)
+[2019.10.22-19.56.22:637][123]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X512)
+[2019.10.22-19.56.22:680][123]Lightmass on MSI: 2.31 sec total, 114 ms importing, 10 ms setup, 718 ms photons, 1.44 sec processing, 0 ms extra exporting [144/144 mappings]. Threads: 15.3 sec total, 3.71 sec processing.
+[2019.10.22-19.56.22:687][123]LogStaticLightingSystem: Halloween_Map_BuiltData storing lightmap data for 22 meshes in 3 LightmapResourceClusters (7.3 Meshes per cluster).
+[2019.10.22-19.56.22:735][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.10.22-19.56.22:756][123]LogStaticLightingSystem: Illumination: 15.7 sec (137 ms encoding lightmaps, 102 ms encoding shadowmaps)
+[2019.10.22-19.56.22:756][123]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (2.0 MB streaming, 0.5 MB non-streaming), 6 textures
+[2019.10.22-19.56.22:756][123]LogStaticLightingSystem: Shadowmap texture memory: 2.8 MB (2.7 MB streaming, 0.2 MB non-streaming), 3 textures
+[2019.10.22-19.56.23:153][123]DumpUnbuiltLightIteractions
+[2019.10.22-19.56.23:153][123]Lights with unbuilt interactions: 0
+[2019.10.22-19.56.23:153][123]
+[2019.10.22-19.56.23:153][123]Primitives with unbuilt interactions: 0
+[2019.10.22-19.56.23:275][124]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.22-19.56.23:275][124]MapCheck: New page: Halloween_Map - Oct 22, 2019, 9:56:23 AM
+[2019.10.22-19.56.23:275][124]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.381ms to complete.
+[2019.10.22-19.58.01:828][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.10.22-19.58.01:828][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.22-19.58.02:009][569]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_Auto56CF3160A479F073824096F98EAE83FE6.tmp' to '../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto5.umap'
+[2019.10.22-19.58.02:010][569]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 0.213
+[2019.10.22-19.58.02:010][569]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.213
+[2019.10.22-19.58.59:859][940]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.22-19.58.59:866][940]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.58.59:866][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.22-19.58.59:866][940]PIE: New page: PIE session: Halloween_Map (Oct 22, 2019, 9:58:59 AM)
+[2019.10.22-19.58.59:866][940]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.22-19.58.59:878][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011283s)
+[2019.10.22-19.58.59:878][940]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.22-19.58.59:878][940]LogPlayLevel: PIE: World Init took: (0.000547s)
+[2019.10.22-19.58.59:878][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.011979s)
+[2019.10.22-19.58.59:904][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.10.22-19.58.59:909][940]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.22-19.58.59:955][940]LogInit: FAudioDevice initialized.
+[2019.10.22-19.58.59:987][940]LogLoad: Game class is 'First_Person_C'
+[2019.10.22-19.58.59:989][940]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.22-14.58.59
+[2019.10.22-19.58.59:989][940]LogWorld: Bringing up level for play took: 0.001852
+[2019.10.22-19.59.00:002][940]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.063
+[2019.10.22-19.59.00:002][940]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.59.18:807][ 67]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.59.18:807][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-19.59.18:834][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.22-19.59.18:834][ 67]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.22-19.59.18:863][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.22-19.59.18:867][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.10.22-19.59.18:917][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.10.22-19.59.19:812][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.59.20:251][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.22-19.59.20:292][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.10.22-19.59.20:473][125]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_MapB7E777934C9218858DAEF2BBEAEAF228.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap'
+[2019.10.22-19.59.20:540][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
+[2019.10.22-19.59.20:643][125]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_BuiltData88FA5E1F47E7E958ADC71B992001C491.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset'
+[2019.10.22-19.59.21:731][180]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.22-19.59.22:733][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.10.22-19.59.25:633][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.22-19.59.25:790][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.10.22-19.59.25:913][418]LogSlate: Window 'Halloween_Project - Unreal Editor' being destroyed
+[2019.10.22-19.59.25:936][418]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.22-19.59.26:602][419]Cmd: QUIT_EDITOR
+[2019.10.22-19.59.27:309][419]LogExit: Preparing to exit.
+[2019.10.22-19.59.28:445][419]LogExit: Editor shut down
+[2019.10.22-19.59.28:446][419]LogExit: Transaction tracking system shut down
+[2019.10.22-19.59.31:223][419]LogExit: Object subsystem successfully closed.
+[2019.10.22-19.59.31:534][419]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.22-19.59.31:578][419]LogD3D11RHI: Shutdown
+[2019.10.22-19.59.31:578][419]LogD3D11RHI: CleanupD3DDevice
+[2019.10.22-19.59.31:739][419]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.22-19.59.31:739][419]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.22-19.59.31:756][419]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.22-19.59.31:756][419]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.22-19.59.31:756][419]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.22-19.59.31:756][419]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.22-19.59.31:901][419]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.22-19.59.33:749][419]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (650)
+[2019.10.22-19.59.33:749][419]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (648)
+[2019.10.22-19.59.33:749][419]LogModuleManager: Shutting down and abandoning module Voice (646)
+[2019.10.22-19.59.33:749][419]LogModuleManager: Shutting down and abandoning module BlueprintGraph (644)
+[2019.10.22-19.59.33:749][419]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2019.10.22-19.59.33:750][419]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2019.10.22-19.59.33:750][419]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2019.10.22-19.59.33:790][419]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2019.10.22-19.59.33:790][419]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2019.10.22-19.59.33:790][419]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2019.10.22-19.59.33:800][419]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.10.22-19.59.33:813][419]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.10.22-19.59.33:813][419]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.10.22-19.59.33:880][419]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.10.22-19.59.33:880][419]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.10.22-19.59.33:880][419]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.10.22-19.59.33:881][419]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.10.22-19.59.33:881][419]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.10.22-19.59.33:881][419]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.10.22-19.59.33:881][419]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.10.22-19.59.33:898][419]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.10.22-19.59.33:914][419]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.10.22-19.59.33:931][419]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.10.22-19.59.33:931][419]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.10.22-19.59.33:942][419]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.10.22-19.59.33:943][419]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.10.22-19.59.33:996][419]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.10.22-19.59.33:996][419]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.10.22-19.59.34:033][419]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.10.22-19.59.34:042][419]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.10.22-19.59.34:042][419]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.10.22-19.59.34:042][419]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.10.22-19.59.34:042][419]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.10.22-19.59.34:042][419]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.10.22-19.59.34:042][419]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.10.22-19.59.34:115][419]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.10.22-19.59.34:172][419]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.10.22-19.59.34:172][419]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.10.22-19.59.34:172][419]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.10.22-19.59.34:172][419]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.10.22-19.59.34:172][419]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.10.22-19.59.34:172][419]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.10.22-19.59.34:172][419]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.10.22-19.59.34:172][419]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.10.22-19.59.34:172][419]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.10.22-19.59.34:172][419]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.10.22-19.59.34:172][419]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.10.22-19.59.34:172][419]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.10.22-19.59.34:172][419]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.10.22-19.59.34:172][419]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.10.22-19.59.34:172][419]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.10.22-19.59.34:172][419]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.10.22-19.59.34:172][419]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.10.22-19.59.34:172][419]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.10.22-19.59.34:172][419]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.10.22-19.59.34:208][419]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.10.22-19.59.34:232][419]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.10.22-19.59.34:255][419]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.10.22-19.59.34:273][419]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.10.22-19.59.34:288][419]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.10.22-19.59.34:288][419]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.10.22-19.59.34:308][419]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.10.22-19.59.34:308][419]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.10.22-19.59.34:348][419]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.10.22-19.59.35:434][419]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.10.22-19.59.35:434][419]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.10.22-19.59.35:434][419]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.10.22-19.59.35:434][419]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.10.22-19.59.35:434][419]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.10.22-19.59.35:435][419]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.10.22-19.59.35:550][419]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.10.22-19.59.35:569][419]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.10.22-19.59.35:588][419]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.10.22-19.59.35:599][419]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.10.22-19.59.35:599][419]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.10.22-19.59.35:600][419]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.10.22-19.59.35:637][419]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.10.22-19.59.35:639][419]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.10.22-19.59.35:653][419]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.10.22-19.59.35:697][419]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.10.22-19.59.35:702][419]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.10.22-19.59.35:703][419]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.10.22-19.59.35:703][419]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.10.22-19.59.35:845][419]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.10.22-19.59.35:853][419]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.10.22-19.59.35:853][419]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.10.22-19.59.35:865][419]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.10.22-19.59.35:929][419]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.10.22-19.59.35:956][419]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.10.22-19.59.35:974][419]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.10.22-19.59.35:989][419]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.10.22-19.59.35:998][419]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.10.22-19.59.36:015][419]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.10.22-19.59.36:015][419]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.10.22-19.59.36:029][419]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.10.22-19.59.36:082][419]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.10.22-19.59.36:082][419]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.10.22-19.59.36:082][419]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.10.22-19.59.36:086][419]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.10.22-19.59.36:108][419]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.10.22-19.59.36:108][419]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.10.22-19.59.36:108][419]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.10.22-19.59.36:129][419]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.10.22-19.59.36:183][419]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.10.22-19.59.36:183][419]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.10.22-19.59.36:192][419]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.10.22-19.59.36:192][419]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.10.22-19.59.36:230][419]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.10.22-19.59.36:230][419]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.10.22-19.59.36:230][419]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.10.22-19.59.36:230][419]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.10.22-19.59.36:231][419]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.10.22-19.59.36:231][419]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.10.22-19.59.36:231][419]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.10.22-19.59.36:231][419]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.10.22-19.59.36:231][419]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.10.22-19.59.36:231][419]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.10.22-19.59.36:231][419]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.10.22-19.59.36:231][419]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.10.22-19.59.36:237][419]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.10.22-19.59.36:237][419]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.10.22-19.59.36:257][419]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.10.22-19.59.36:261][419]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.10.22-19.59.36:501][419]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.10.22-19.59.36:523][419]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.10.22-19.59.36:523][419]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.10.22-19.59.36:533][419]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.10.22-19.59.36:533][419]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.10.22-19.59.36:534][419]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.10.22-19.59.36:534][419]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.10.22-19.59.36:534][419]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.10.22-19.59.36:545][419]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.10.22-19.59.36:545][419]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.10.22-19.59.36:545][419]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.10.22-19.59.36:545][419]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.10.22-19.59.36:545][419]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.10.22-19.59.36:545][419]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.10.22-19.59.36:545][419]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.10.22-19.59.36:570][419]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.10.22-19.59.36:571][419]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.10.22-19.59.36:571][419]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.10.22-19.59.36:571][419]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.10.22-19.59.36:571][419]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.10.22-19.59.36:571][419]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.10.22-19.59.36:578][419]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.10.22-19.59.36:578][419]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.10.22-19.59.36:578][419]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.10.22-19.59.36:578][419]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.10.22-19.59.36:585][419]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.10.22-19.59.36:585][419]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.10.22-19.59.36:585][419]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.10.22-19.59.36:585][419]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.10.22-19.59.36:585][419]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.10.22-19.59.36:585][419]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.10.22-19.59.36:585][419]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.10.22-19.59.36:585][419]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.10.22-19.59.36:585][419]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.10.22-19.59.36:586][419]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.10.22-19.59.36:586][419]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.10.22-19.59.36:599][419]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.10.22-19.59.36:599][419]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.10.22-19.59.36:610][419]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.10.22-19.59.36:610][419]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.10.22-19.59.36:610][419]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.10.22-19.59.36:620][419]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.10.22-19.59.36:620][419]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.10.22-19.59.36:620][419]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.10.22-19.59.36:621][419]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.10.22-19.59.36:641][419]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.10.22-19.59.36:654][419]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.10.22-19.59.36:668][419]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.10.22-19.59.36:668][419]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.10.22-19.59.36:668][419]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.10.22-19.59.36:726][419]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.10.22-19.59.36:726][419]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.10.22-19.59.36:726][419]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.10.22-19.59.36:726][419]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.10.22-19.59.36:726][419]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.10.22-19.59.36:765][419]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.10.22-19.59.36:765][419]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.10.22-19.59.36:765][419]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.10.22-19.59.36:765][419]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.10.22-19.59.36:765][419]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.10.22-19.59.36:765][419]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.10.22-19.59.36:765][419]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.10.22-19.59.36:866][419]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.10.22-19.59.36:986][419]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.10.22-19.59.36:986][419]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.10.22-19.59.36:986][419]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.10.22-19.59.37:006][419]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.10.22-19.59.37:006][419]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.10.22-19.59.37:032][419]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.22-19.59.37:032][419]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.10.22-19.59.37:032][419]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.10.22-19.59.37:032][419]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.10.22-19.59.37:047][419]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.10.22-19.59.37:047][419]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.10.22-19.59.37:047][419]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.10.22-19.59.37:047][419]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.10.22-19.59.37:059][419]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.10.22-19.59.37:119][419]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.10.22-19.59.37:136][419]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.10.22-19.59.37:152][419]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.10.22-19.59.37:152][419]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.10.22-19.59.37:169][419]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.10.22-19.59.37:171][419]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.10.22-19.59.37:245][419]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.10.22-19.59.37:245][419]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.10.22-19.59.37:245][419]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.10.22-19.59.37:245][419]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.10.22-19.59.37:259][419]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.10.22-19.59.37:274][419]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.10.22-19.59.37:277][419]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.10.22-19.59.37:277][419]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.10.22-19.59.37:277][419]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.10.22-19.59.37:299][419]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.10.22-19.59.37:299][419]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.10.22-19.59.37:299][419]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.10.22-19.59.37:299][419]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.10.22-19.59.37:320][419]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.10.22-19.59.37:329][419]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.10.22-19.59.37:329][419]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.10.22-19.59.37:357][419]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.10.22-19.59.37:371][419]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.10.22-19.59.37:399][419]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.10.22-19.59.37:453][419]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.10.22-19.59.37:485][419]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.10.22-19.59.37:520][419]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.10.22-19.59.37:579][419]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.10.22-19.59.37:579][419]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.10.22-19.59.37:610][419]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.10.22-19.59.37:610][419]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.10.22-19.59.37:653][419]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.10.22-19.59.37:674][419]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.10.22-19.59.37:675][419]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.10.22-19.59.37:675][419]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.10.22-19.59.37:675][419]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.10.22-19.59.37:675][419]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.10.22-19.59.37:675][419]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.10.22-19.59.37:675][419]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.10.22-19.59.37:675][419]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.10.22-19.59.37:675][419]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.10.22-19.59.37:683][419]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.10.22-19.59.37:683][419]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.10.22-19.59.37:702][419]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.10.22-19.59.37:799][419]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.10.22-19.59.37:799][419]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.10.22-19.59.37:820][419]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.10.22-19.59.37:832][419]LogDerivedDataCache: Shutdown
+[2019.10.22-19.59.37:832][419]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.10.22-19.59.37:832][419]LogXGEController: Cleaning working directory: C:/Users/Luis/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.22-19.59.37:853][419]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.10.22-19.59.37:870][419]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.10.22-19.59.37:884][419]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.10.22-19.59.37:897][419]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.10.22-19.59.37:906][419]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.10.22-19.59.37:918][419]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.10.22-19.59.37:931][419]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.10.22-19.59.37:931][419]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.10.22-19.59.37:931][419]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.10.22-19.59.37:931][419]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.10.22-19.59.37:944][419]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.10.22-19.59.37:944][419]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.10.22-19.59.37:944][419]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.10.22-19.59.37:944][419]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.10.22-19.59.37:955][419]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.10.22-19.59.37:955][419]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.10.22-19.59.37:955][419]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.10.22-19.59.37:963][419]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.10.22-19.59.37:963][419]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.10.22-19.59.37:978][419]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.10.22-19.59.38:012][419]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.10.22-19.59.38:021][419]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.10.22-19.59.38:028][419]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.10.22-19.59.38:028][419]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.10.22-19.59.38:048][419]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.10.22-19.59.38:048][419]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.10.22-19.59.38:173][419]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.10.22-19.59.38:173][419]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.10.22-19.59.38:194][419]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.10.22-19.59.38:194][419]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.10.22-19.59.38:205][419]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.10.22-19.59.38:205][419]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.10.22-19.59.38:205][419]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.10.22-19.59.38:217][419]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.10.22-19.59.38:231][419]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.10.22-19.59.38:231][419]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.10.22-19.59.38:231][419]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.10.22-19.59.38:231][419]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.10.22-19.59.38:232][419]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.10.22-19.59.38:232][419]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.10.22-19.59.38:232][419]LogHMD: Freeing OpenVRDLLHandle.
+[2019.10.22-19.59.38:232][419]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.10.22-19.59.38:266][419]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.10.22-19.59.38:266][419]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.10.22-19.59.38:266][419]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.10.22-19.59.38:266][419]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.10.22-19.59.38:285][419]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.10.22-19.59.38:318][419]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.10.22-19.59.38:365][419]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.10.22-19.59.38:365][419]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.22-19.59.38:365][419]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7B793A9F-4C03-9BF9-965B-46AB1CBDF9E1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=d9969f954edac1b20f345b98e41e132f%7C200649e9e15c431388713df8e6b34389%7Ce62061a5-428f-41c4-8d88-77cb087d6a11&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.22-19.59.38:397][419]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.10.22-19.59.38:444][419]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.10.22-19.59.38:462][419]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.10.22-19.59.38:468][419]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.10.22-19.59.38:477][419]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.10.22-19.59.38:477][419]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.10.22-19.59.38:521][419]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.10.22-19.59.38:613][419]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.10.22-19.59.38:673][419]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.10.22-19.59.38:674][419]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.10.22-19.59.38:674][419]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.10.22-19.59.38:674][419]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.10.22-19.59.38:702][419]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.10.22-19.59.38:719][419]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.10.22-19.59.38:719][419]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.10.22-19.59.38:719][419]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.10.22-19.59.38:719][419]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.10.22-19.59.38:719][419]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.10.22-19.59.38:719][419]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.10.22-19.59.38:725][419]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.10.22-19.59.38:725][419]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.10.22-19.59.38:758][419]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.10.22-19.59.38:769][419]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.10.22-19.59.38:790][419]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.10.22-19.59.38:837][419]LogExit: Exiting.
+[2019.10.22-19.59.38:872][419]Log file closed, 10/22/19 14:59:38
