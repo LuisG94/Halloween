@@ -1666,3 +1666,114 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.23-01.38.53:873][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
 [2019.10.23-01.38.53:965][599]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_BuiltData221951C443E8A1EE346CA38C624A9C3B.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset'
 [2019.10.23-01.39.01:001][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.45.51:028][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.45.51:153][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.23-01.45.51:187][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.10.23-01.45.51:812][251]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map486746234E9C6993FD8650933212FCFB.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap'
+[2019.10.23-01.45.51:825][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
+[2019.10.23-01.45.51:915][251]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_BuiltDataBA2776DD40E86A19287D39903B845D6F.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset'
+[2019.10.23-01.46.16:011][675]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.23-01.49.50:646][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.50.07:205][396]LogTexture: Display: Building textures: T_Creature02_Metallic (AutoDXT, 4096X4096)
+[2019.10.23-01.50.07:205][396]LogTexture: Display: Building textures: T_Creature02_Ao (AutoDXT, 4096X4096)
+[2019.10.23-01.50.07:205][396]LogTexture: Display: Building textures: T_Creature02_Albedo (AutoDXT, 4096X4096)
+[2019.10.23-01.50.07:205][396]LogTexture: Display: Building textures: T_Creature02_Normals (BC5, 4096X4096)
+[2019.10.23-01.50.07:206][396]LogMaterial: Display: Missing cached shader map for material M_Creature02, compiling. 
+[2019.10.23-01.50.07:233][396]LogSkeletalMesh: Building Skeletal Mesh SK_Creature02...
+[2019.10.23-01.50.07:268][396]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.10.23-01.50.07:268][396]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.10.23-01.50.07:268][396]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.23-01.50.07:268][396]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.23-01.50.07:268][396]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.23-01.50.07:268][396]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.23-01.50.07:268][396]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Creature02/Mesh/SK_Creature02.SK_Creature02
+[2019.10.23-01.50.07:290][396]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Creature02/Mesh/SK_Creature02.SK_Creature02
+[2019.10.23-01.50.07:307][396]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.23-01.50.07:345][396]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.23-01.50.24:623][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.50.24:690][271]LogSlate: Window 'SK_Creature02' being destroyed
+[2019.10.23-01.50.24:697][271]LogSlate: Window 'SK_Creature02' being destroyed
+[2019.10.23-01.50.26:807][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.51.34:513][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.52.06:270][904]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Horror_Ambience_Ambient_Drone_Belly_of_the_Beast_441...
+[2019.10.23-01.52.07:011][904]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 6108504 while cooking SoundWave /Game/Horror_Ambient/Wavs/Horror_Ambience_Ambient_Drone_Belly_of_the_Beast_441.Horror_Ambience_Ambient_Drone_Belly_of_the_Beast_441.
+[2019.10.23-01.52.22:202][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.52.23:163][832]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.52.25:929][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.53.06:961][340]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.53.09:419][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.53.19:351][ 43]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Horror_Ambience_Ambient_Drone_Belowing_Thunder_441...
+[2019.10.23-01.53.19:657][ 43]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 3486088 while cooking SoundWave /Game/Horror_Ambient/Wavs/Horror_Ambience_Ambient_Drone_Belowing_Thunder_441.Horror_Ambience_Ambient_Drone_Belowing_Thunder_441.
+[2019.10.23-01.53.34:213][647]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Horror_Ambience_Ambient_Drone_Cacophony_441...
+[2019.10.23-01.53.34:804][647]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 6532484 while cooking SoundWave /Game/Horror_Ambient/Wavs/Horror_Ambience_Ambient_Drone_Cacophony_441.Horror_Ambience_Ambient_Drone_Cacophony_441.
+[2019.10.23-01.53.42:638][106]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Horror_Ambience_Ambient_Drone_Chains_of_Doom_441...
+[2019.10.23-01.53.43:839][106]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 14541004 while cooking SoundWave /Game/Horror_Ambient/Wavs/Horror_Ambience_Ambient_Drone_Chains_of_Doom_441.Horror_Ambience_Ambient_Drone_Chains_of_Doom_441.
+[2019.10.23-01.54.21:808][207]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Horror_Ambience_Vocalization_Textures_Evil_Screech_Beast_06_441...
+[2019.10.23-01.54.21:906][207]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 877352 while cooking SoundWave /Game/Horror_Ambient/Wavs/Horror_Ambience_Vocalization_Textures_Evil_Screech_Beast_06_441.Horror_Ambience_Vocalization_Textures_Evil_Screech_Beast_06_441.
+[2019.10.23-01.54.27:643][523]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Horror_Ambience_Vocalization_Textures_Metal_Undulating_Snarls_01_441...
+[2019.10.23-01.54.27:925][523]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 3160248 while cooking SoundWave /Game/Horror_Ambient/Wavs/Horror_Ambience_Vocalization_Textures_Metal_Undulating_Snarls_01_441.Horror_Ambience_Vocalization_Textures_Metal_Undulating_Snarls_01_441.
+[2019.10.23-01.54.54:728][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.56.00:882][171]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Lvl_Design_II\halloween_stuff\qakw15w4191c-Steel-railing\[.obj]\Barrière Balcon SH3D.obj)
+[2019.10.23-01.56.01:102][171]LogFbx: Loading FBX Scene from D:\Lvl_Design_II\halloween_stuff\qakw15w4191c-Steel-railing\[.obj]\Barrière Balcon SH3D.obj
+[2019.10.23-01.56.01:302][171]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.23-01.56.01:492][171]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.56.04:966][171]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.10.23-01.56.05:861][171]LogLinker: Can't find file '/Game/materials_Cube_1_2'
+[2019.10.23-01.56.05:861][171]LogLinker: Can't find file '/Game/materials_Cube_1_2'
+[2019.10.23-01.56.05:893][171]LogTexture: Display: Building textures: materials_Cube_1_2 (AutoDXT, 1024X256)
+[2019.10.23-01.56.06:006][171]LogMaterial: Display: Missing cached shader map for material Cube_1_2, compiling. 
+[2019.10.23-01.56.06:074][171]LogStaticMesh: Building static mesh Barrière_Balcon_SH3D_Cube_1_2...
+[2019.10.23-01.56.06:089][171]LogStaticMesh: Built static mesh [0.02s] /Game/Barrière_Balcon_SH3D_Cube_1_2.Barrière_Balcon_SH3D_Cube_1_2
+[2019.10.23-01.56.06:090][171]LogStaticMesh: Warning: Barrière_Balcon_SH3D_Cube_1_2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.23-01.56.06:090][171]LogStaticMesh: Warning: Barrière_Balcon_SH3D_Cube_1_2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.23-01.56.06:149][171]LogStaticMesh: Building static mesh Barrière_Balcon_SH3D_Cube_1_3...
+[2019.10.23-01.56.06:150][171]LogStaticMesh: Built static mesh [0.00s] /Game/Barrière_Balcon_SH3D_Cube_1_3.Barrière_Balcon_SH3D_Cube_1_3
+[2019.10.23-01.56.06:150][171]LogStaticMesh: Warning: Barrière_Balcon_SH3D_Cube_1_3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.23-01.56.06:150][171]LogStaticMesh: Warning: Barrière_Balcon_SH3D_Cube_1_3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.23-01.56.06:155][171]LogStaticMesh: Building static mesh Barrière_Balcon_SH3D_Cube_1_4...
+[2019.10.23-01.56.06:156][171]LogStaticMesh: Built static mesh [0.00s] /Game/Barrière_Balcon_SH3D_Cube_1_4.Barrière_Balcon_SH3D_Cube_1_4
+[2019.10.23-01.56.06:157][171]LogStaticMesh: Warning: Barrière_Balcon_SH3D_Cube_1_4 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.23-01.56.06:157][171]LogStaticMesh: Warning: Barrière_Balcon_SH3D_Cube_1_4 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.23-01.56.06:163][171]LogStaticMesh: Building static mesh Barrière_Balcon_SH3D_Cube_1_5...
+[2019.10.23-01.56.06:163][171]LogStaticMesh: Built static mesh [0.00s] /Game/Barrière_Balcon_SH3D_Cube_1_5.Barrière_Balcon_SH3D_Cube_1_5
+[2019.10.23-01.56.06:163][171]LogStaticMesh: Warning: Barrière_Balcon_SH3D_Cube_1_5 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.23-01.56.06:164][171]LogStaticMesh: Warning: Barrière_Balcon_SH3D_Cube_1_5 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.23-01.56.06:169][171]LogStaticMesh: Building static mesh Barrière_Balcon_SH3D_Cube_1_6...
+[2019.10.23-01.56.06:170][171]LogStaticMesh: Built static mesh [0.00s] /Game/Barrière_Balcon_SH3D_Cube_1_6.Barrière_Balcon_SH3D_Cube_1_6
+[2019.10.23-01.56.06:170][171]LogStaticMesh: Warning: Barrière_Balcon_SH3D_Cube_1_6 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.23-01.56.06:170][171]LogStaticMesh: Warning: Barrière_Balcon_SH3D_Cube_1_6 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.23-01.56.06:182][171]LogMaterial: Display: Missing cached shader map for material default_1_1, compiling. 
+[2019.10.23-01.56.06:384][171]LogStaticMesh: Building static mesh Barrière_Balcon_SH3D_default_1_1...
+[2019.10.23-01.56.07:335][171]LogStaticMesh: Built static mesh [0.95s] /Game/Barrière_Balcon_SH3D_default_1_1.Barrière_Balcon_SH3D_default_1_1
+[2019.10.23-01.56.07:410][171]LogStaticMesh: Warning: Barrière_Balcon_SH3D_default_1_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.23-01.56.07:410][171]LogStaticMesh: Warning: Barrière_Balcon_SH3D_default_1_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.23-01.56.07:610][171]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.10.23-01.56.07:610][171]FBXImport: Warning: Barrière_Balcon_SH3D_Cube_1_2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.23-01.56.07:611][171]FBXImport: Warning: Barrière_Balcon_SH3D_Cube_1_2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.23-01.56.07:611][171]FBXImport: Warning: Barrière_Balcon_SH3D_Cube_1_3 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.23-01.56.07:611][171]FBXImport: Warning: Barrière_Balcon_SH3D_Cube_1_3 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.23-01.56.07:611][171]FBXImport: Warning: Barrière_Balcon_SH3D_Cube_1_4 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.23-01.56.07:611][171]FBXImport: Warning: Barrière_Balcon_SH3D_Cube_1_4 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.23-01.56.07:611][171]FBXImport: Warning: Barrière_Balcon_SH3D_Cube_1_5 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.23-01.56.07:611][171]FBXImport: Warning: Barrière_Balcon_SH3D_Cube_1_5 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.23-01.56.07:611][171]FBXImport: Warning: Barrière_Balcon_SH3D_Cube_1_6 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.23-01.56.07:611][171]FBXImport: Warning: Barrière_Balcon_SH3D_Cube_1_6 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.23-01.56.07:611][171]FBXImport: Warning: Barrière_Balcon_SH3D_default_1_1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.23-01.56.07:611][171]FBXImport: Warning: Barrière_Balcon_SH3D_default_1_1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.23-01.56.07:680][171]LogAssetTools: Warning: Failed to import 'D:\Lvl_Design_II\halloween_stuff\qakw15w4191c-Steel-railing\[.obj]\materials.mtl'. Unknown extension 'mtl'.
+[2019.10.23-01.56.11:346][171]LogSlate: Window 'Message' being destroyed
+[2019.10.23-01.56.11:353][171]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Lvl_Design_II\halloween_stuff\qakw15w4191c-Steel-railing\[.obj]\materials_Cube_1_2.png)
+[2019.10.23-01.56.13:825][171]LogSlate: Window 'Message' being destroyed
+[2019.10.23-01.56.13:845][171]LogTexture: Display: Building textures: materials_Cube_1_2 (AutoDXT, 1024X256)
+[2019.10.23-01.56.14:186][171]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.56.20:813][549]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Barrière_Balcon_SH3D_default_1_1.Barrière_Balcon_SH3D_default_1_1
+[2019.10.23-01.56.25:734][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.56.25:802][824]LogSlate: Window 'Barrière_Balcon_SH3D_default_1_1' being destroyed
+[2019.10.23-01.56.25:809][824]LogSlate: Window 'Barrière_Balcon_SH3D_default_1_1' being destroyed
+[2019.10.23-01.57.01:747][331]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (47.551 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.23-01.57.27:651][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.57.27:760][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.23-01.57.27:786][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.10.23-01.57.28:399][503]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map9802D2D645675DE3964AA79AE4F8E5C2.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap'
+[2019.10.23-01.57.28:413][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
+[2019.10.23-01.57.28:502][503]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_BuiltDataD9509AB34B3DECE15068B09DCF74B063.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset'
