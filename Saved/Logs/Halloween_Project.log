@@ -1058,3 +1058,611 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.23-00.06.28:988][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
 [2019.10.23-00.06.29:009][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/idkwhatimdoing" FILE="../../../../GitHub/Halloween/Content/idkwhatimdoing.uasset" SILENT=true
 [2019.10.23-00.06.29:012][ 82]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/idkwhatimdoing0062A5DC41824B483438E881C96738D0.tmp' to '../../../../GitHub/Halloween/Content/idkwhatimdoing.uasset'
+[2019.10.23-00.06.52:662][751]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.10.23-00.06.58:479][ 88]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.10.23-00.06.59:232][132]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.10.23-00.07.22:421][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.07.22:487][525]MapCheck: New page: Map Check
+[2019.10.23-00.07.22:511][525]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.23-00.07.22:512][525]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.23-00.07.22:683][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.10.23-00.07.22:742][525]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.23-00.07.22:749][525]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.23-00.07.22:755][525]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.23-00.07.22:762][525]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.10.23-00.07.22:794][525]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.23-00.07.22:804][525]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.23-00.07.22:818][525]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.23-00.07.22:830][525]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.23-00.07.22:841][525]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.23-00.07.22:851][525]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.23-00.07.22:862][525]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.23-00.07.22:872][525]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.23-00.07.22:879][525]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.23-00.07.22:886][525]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.23-00.07.22:892][525]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.23-00.07.22:899][525]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.23-00.07.22:906][525]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.23-00.07.22:913][525]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.23-00.07.22:924][525]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.23-00.07.25:259][525]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.10.23-00.07.25:259][525]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.10.23-00.07.25:259][525]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.23-00.07.25:259][525]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.23-00.07.25:259][525]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.23-00.07.25:259][525]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.23-00.07.25:259][525]TextureStreamingBuild: Display: Compiling optional shaders took 2.525 seconds.
+[2019.10.23-00.07.25:411][525]LogLevel: Display: Export Material TexCoord Scales took 0.153 seconds.
+[2019.10.23-00.07.25:462][525]TextureStreamingBuild: Display: Build Texture Streaming took 0.051 seconds.
+[2019.10.23-00.07.25:486][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.10.23-00.07.25:506][525]LightingResults: New page: Lighting Build - Oct 22, 2019, 2:07:25 PM
+[2019.10.23-00.07.25:598][525]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.23-00.07.25:703][525]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.23-00.07.25:721][525]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.23-00.07.26:753][525]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.23-00.07.26:753][525]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16320
+[2019.10.23-00.07.33:238][525]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.10.23-00.07.33:238][525]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.23-00.07.33:238][525]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.23-00.07.33:238][525]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.23-00.07.33:238][525]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.23-00.07.33:238][525]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.23-00.07.33:546][525]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.10.23-00.07.33:546][525]MapCheck: New page: Halloween_Map - Oct 22, 2019, 2:07:33 PM
+[2019.10.23-00.07.33:546][525]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.10.23-00.07.33:547][525]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.824ms to complete.
+[2019.10.23-00.07.33:569][525]LogEditorBuildUtils: Build time 0:11
+[2019.10.23-00.07.33:716][526]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Fence, compiling. 
+[2019.10.23-00.07.33:724][526]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Fence, compiling. 
+[2019.10.23-00.07.33:759][527]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_FenceDetail, compiling. 
+[2019.10.23-00.07.33:767][527]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_FenceDetail, compiling. 
+[2019.10.23-00.07.33:775][527]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_FenceDetail, compiling. 
+[2019.10.23-00.07.33:804][528]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_ZombieHand, compiling. 
+[2019.10.23-00.07.33:814][528]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_ZombieHand, compiling. 
+[2019.10.23-00.07.33:846][529]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_paintedrust_gold, compiling. 
+[2019.10.23-00.07.33:855][529]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_paintedrust_gold, compiling. 
+[2019.10.23-00.07.33:889][530]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_paintedrust_red, compiling. 
+[2019.10.23-00.07.33:903][530]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_paintedrust_red, compiling. 
+[2019.10.23-00.07.33:937][531]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_travertine_rectangular_staggered, compiling. 
+[2019.10.23-00.07.33:950][531]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_travertine_rectangular_staggered, compiling. 
+[2019.10.23-00.07.33:987][532]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_tarp_gray, compiling. 
+[2019.10.23-00.07.34:001][532]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer mi_tarp_gray, compiling. 
+[2019.10.23-00.07.34:044][533]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Burnished_Steel, compiling. 
+[2019.10.23-00.07.34:055][533]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Burnished_Steel, compiling. 
+[2019.10.23-00.07.36:529][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.10.23-00.07.40:180][744]Job is a success!
+[2019.10.23-00.07.40:388][745]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2019.10.23-00.07.40:389][745]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.10.23-00.07.40:389][745]LogVolumetricLightmapImport:      BrickData 625x5x5 = 0.6Mb
+[2019.10.23-00.07.40:389][745]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.23-00.07.40:389][745]LogVolumetricLightmapImport:          0: 0.8% covering 100.0% of volume
+[2019.10.23-00.07.40:389][745]LogVolumetricLightmapImport:          1: 7.2% covering 14.1% of volume
+[2019.10.23-00.07.40:389][745]LogVolumetricLightmapImport:          2: 92.0% covering 2.8% of volume
+[2019.10.23-00.07.40:723][745]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2019.10.23-00.07.40:723][745]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2019.10.23-00.07.40:723][745]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.10.23-00.07.40:723][745]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2019.10.23-00.07.40:723][745]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2019.10.23-00.07.40:723][745]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.10.23-00.07.40:724][745]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2019.10.23-00.07.40:724][745]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2019.10.23-00.07.40:924][745]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2019.10.23-00.07.40:924][745]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 256X256)
+[2019.10.23-00.07.40:953][745]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X1024)
+[2019.10.23-00.07.41:000][745]Lightmass on MSI: 3.70 sec total, 126 ms importing, 25 ms setup, 796 ms photons, 2.72 sec processing, 0 ms extra exporting [239/239 mappings]. Threads: 29.4 sec total, 15.3 sec processing.
+[2019.10.23-00.07.41:006][745]LogStaticLightingSystem: Halloween_Map_BuiltData storing lightmap data for 62 meshes in 5 LightmapResourceClusters (12.4 Meshes per cluster).
+[2019.10.23-00.07.41:036][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.10.23-00.07.41:056][745]LogStaticLightingSystem: Illumination: 15.5 sec (245 ms encoding lightmaps, 222 ms encoding shadowmaps)
+[2019.10.23-00.07.41:056][745]LogStaticLightingSystem: Lightmap texture memory:  4.5 MB (4.0 MB streaming, 0.5 MB non-streaming), 8 textures
+[2019.10.23-00.07.41:056][745]LogStaticLightingSystem: Shadowmap texture memory: 5.7 MB (5.3 MB streaming, 0.3 MB non-streaming), 3 textures
+[2019.10.23-00.07.41:167][745]DumpUnbuiltLightIteractions
+[2019.10.23-00.07.41:167][745]Lights with unbuilt interactions: 0
+[2019.10.23-00.07.41:167][745]
+[2019.10.23-00.07.41:167][745]Primitives with unbuilt interactions: 0
+[2019.10.23-00.07.41:335][746]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.23-00.07.41:335][746]MapCheck: New page: Halloween_Map - Oct 22, 2019, 2:07:41 PM
+[2019.10.23-00.07.41:336][746]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.66ms to complete.
+[2019.10.23-00.07.51:620][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.07.51:721][369]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.23-00.07.51:729][369]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.07.51:729][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.23-00.07.51:729][369]PIE: New page: PIE session: Halloween_Map (Oct 22, 2019, 2:07:51 PM)
+[2019.10.23-00.07.51:729][369]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.23-00.07.51:752][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022910s)
+[2019.10.23-00.07.51:753][369]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.23-00.07.51:753][369]LogPlayLevel: PIE: World Init took: (0.000610s)
+[2019.10.23-00.07.51:753][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.023736s)
+[2019.10.23-00.07.51:776][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.10.23-00.07.51:781][369]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.23-00.07.51:824][369]LogInit: FAudioDevice initialized.
+[2019.10.23-00.07.51:856][369]LogLoad: Game class is 'First_Person_C'
+[2019.10.23-00.07.51:859][369]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.22-19.07.51
+[2019.10.23-00.07.51:859][369]LogWorld: Bringing up level for play took: 0.002752
+[2019.10.23-00.07.51:872][369]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.285
+[2019.10.23-00.07.51:872][369]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.08.13:074][634]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.08.13:074][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.08.13:102][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.23-00.08.13:103][634]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.08.13:128][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.08.13:131][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.10.23-00.08.13:187][637]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.10.23-00.08.14:220][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.08.14:340][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.23-00.08.14:364][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.10.23-00.08.14:612][705]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map912FAD614F1A75556DF1829BE83E80E8.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap'
+[2019.10.23-00.08.14:625][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
+[2019.10.23-00.08.14:711][705]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_BuiltDataD698D93C44248AB4FAA0169BCDD651CE.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset'
+[2019.10.23-00.08.28:259][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor41)
+[2019.10.23-00.08.29:667][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.08.34:455][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor49)
+[2019.10.23-00.09.55:464][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.09.58:735][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.11.01:743][817]Cmd: DELETE
+[2019.10.23-00.11.01:743][817]Cmd: ACTOR DELETE
+[2019.10.23-00.11.01:750][817]LogEditorActor: Deleted Actor: Brush
+[2019.10.23-00.11.01:778][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.10.23-00.11.01:803][817]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2019.10.23-00.12.13:282][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.12.27:459][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.12.39:468][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.12.50:772][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.13.04:197][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.13.21:363][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.13.36:743][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.13.38:748][133]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.23-00.13.40:171][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.14.13:620][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.14.15:665][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor13)
+[2019.10.23-00.14.17:062][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.14.17:183][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.23-00.14.17:221][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.10.23-00.14.17:592][272]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map955A1AFA47B118F171B9AFB2E557F55E.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap'
+[2019.10.23-00.14.17:640][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
+[2019.10.23-00.14.17:730][272]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_BuiltData02287F304125311858F390BF0FF30B49.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset'
+[2019.10.23-00.14.23:082][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.14.34:506][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.14.48:576][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.15.16:885][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.15.22:336][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.15.40:064][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2019.10.23-00.15.40:294][167]Cmd: DELETE
+[2019.10.23-00.15.40:294][167]Cmd: ACTOR DELETE
+[2019.10.23-00.15.40:302][167]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.23-00.15.40:336][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.10.23-00.15.40:336][167]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2019.10.23-00.15.41:460][235]Cmd: TRANSACTION UNDO
+[2019.10.23-00.15.41:460][235]LogEditorTransaction: Undo Delete Actors
+[2019.10.23-00.15.43:189][335]Cmd: DELETE
+[2019.10.23-00.15.43:189][335]Cmd: ACTOR DELETE
+[2019.10.23-00.15.43:196][335]LogEditorActor: Deleted Actor: Brush
+[2019.10.23-00.15.43:221][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.10.23-00.15.43:249][335]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2019.10.23-00.15.44:262][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.15.44:371][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.23-00.15.44:393][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2019.10.23-00.15.44:698][400]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map827F9C9E48BF92727ABE50B61FFF06C9.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap'
+[2019.10.23-00.15.44:724][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
+[2019.10.23-00.15.44:813][400]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_BuiltData8EB29DF84C8EC9C2BCD821968707FA80.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset'
+[2019.10.23-00.33.44:670][173]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.34.19:125][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.34.19:225][239]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.23-00.34.19:233][239]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.34.19:233][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.23-00.34.19:233][239]PIE: New page: PIE session: Halloween_Map (Oct 22, 2019, 2:34:19 PM)
+[2019.10.23-00.34.19:233][239]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.23-00.34.19:261][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027329s)
+[2019.10.23-00.34.19:261][239]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.23-00.34.19:262][239]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2019.10.23-00.34.19:262][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.028372s)
+[2019.10.23-00.34.19:288][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.10.23-00.34.19:294][239]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.23-00.34.19:341][239]LogInit: FAudioDevice initialized.
+[2019.10.23-00.34.19:367][239]LogLoad: Game class is 'First_Person_C'
+[2019.10.23-00.34.19:371][239]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.22-19.34.19
+[2019.10.23-00.34.19:372][239]LogWorld: Bringing up level for play took: 0.003602
+[2019.10.23-00.34.19:385][239]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.795
+[2019.10.23-00.34.19:386][239]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.34.48:303][967]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.34.48:303][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.34.48:332][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.23-00.34.48:332][967]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.34.48:359][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.34.48:363][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.10.23-00.34.48:411][970]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.10.23-00.35.16:466][650]Cmd: DELETE
+[2019.10.23-00.35.16:466][650]Cmd: ACTOR DELETE
+[2019.10.23-00.35.16:473][650]LogEditorActor: Deleted Actor: Brush
+[2019.10.23-00.35.16:495][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.10.23-00.35.16:522][650]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2019.10.23-00.35.22:324][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.35.23:479][ 50]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.23-00.35.25:197][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.36.14:052][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2019.10.23-00.36.56:729][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.37.03:108][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.38.12:204][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.38.12:270][ 28]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.23-00.38.12:278][ 28]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.38.12:278][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.23-00.38.12:278][ 28]PIE: New page: PIE session: Halloween_Map (Oct 22, 2019, 2:38:12 PM)
+[2019.10.23-00.38.12:278][ 28]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.23-00.38.12:308][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029051s)
+[2019.10.23-00.38.12:308][ 28]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.23-00.38.12:308][ 28]LogPlayLevel: PIE: World Init took: (0.000456s)
+[2019.10.23-00.38.12:308][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.029682s)
+[2019.10.23-00.38.12:336][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.10.23-00.38.12:341][ 28]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.23-00.38.12:385][ 28]LogInit: FAudioDevice initialized.
+[2019.10.23-00.38.12:414][ 28]LogLoad: Game class is 'First_Person_C'
+[2019.10.23-00.38.12:417][ 28]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.22-19.38.12
+[2019.10.23-00.38.12:418][ 28]LogWorld: Bringing up level for play took: 0.003192
+[2019.10.23-00.38.12:431][ 28]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map -0.16
+[2019.10.23-00.38.12:431][ 28]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.38.23:823][702]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.38.23:823][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.38.23:855][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.23-00.38.23:855][702]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.38.23:891][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.38.23:895][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.10.23-00.38.23:936][703]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.10.23-00.39.46:197][984]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.40.28:313][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.10.23-00.40.28:314][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.23-00.40.28:723][135]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_Auto4CBDCE1CB4745C5AF71D0A1BCC8906D3F.tmp' to '../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto4.umap'
+[2019.10.23-00.40.28:724][135]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 0.445
+[2019.10.23-00.40.28:724][135]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.445
+[2019.10.23-00.41.09:975][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.42.17:303][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.42.26:354][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.43.00:026][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.43.17:523][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.43.45:765][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.43.49:844][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.44.19:883][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.44.19:964][240]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.23-00.44.19:972][240]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.44.19:972][240]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.23-00.44.19:972][240]PIE: New page: PIE session: Halloween_Map (Oct 22, 2019, 2:44:19 PM)
+[2019.10.23-00.44.19:973][240]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.23-00.44.20:007][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034150s)
+[2019.10.23-00.44.20:007][240]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.23-00.44.20:007][240]LogPlayLevel: PIE: World Init took: (0.000557s)
+[2019.10.23-00.44.20:008][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.034895s)
+[2019.10.23-00.44.20:047][240]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.10.23-00.44.20:054][240]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.23-00.44.20:099][240]LogInit: FAudioDevice initialized.
+[2019.10.23-00.44.20:131][240]LogLoad: Game class is 'First_Person_C'
+[2019.10.23-00.44.20:135][240]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.22-19.44.20
+[2019.10.23-00.44.20:135][240]LogWorld: Bringing up level for play took: 0.003381
+[2019.10.23-00.44.20:148][240]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map -0.442
+[2019.10.23-00.44.20:148][240]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.44.43:884][655]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.44.43:884][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.44.43:916][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.23-00.44.43:916][655]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.44.43:951][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.44.43:955][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.10.23-00.44.43:996][656]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.10.23-00.45.56:728][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor37)
+[2019.10.23-00.45.57:659][ 15]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor33)
+[2019.10.23-00.45.58:368][ 56]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor32)
+[2019.10.23-00.45.59:076][ 97]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor34)
+[2019.10.23-00.45.59:583][126]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor35)
+[2019.10.23-00.46.00:125][157]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor36)
+[2019.10.23-00.46.00:626][185]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor43)
+[2019.10.23-00.46.01:076][210]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor55)
+[2019.10.23-00.46.01:641][242]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor62)
+[2019.10.23-00.46.40:408][558]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.23-00.46.42:377][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.47.04:396][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.47.16:968][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.47.30:615][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.49.53:236][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.49.54:816][142]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.23-00.49.56:457][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.50.42:480][951]Cmd: DELETE
+[2019.10.23-00.50.42:480][951]Cmd: ACTOR DELETE
+[2019.10.23-00.50.42:493][951]LogEditorActor: Deleted Actor: Brush
+[2019.10.23-00.50.42:530][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.10.23-00.50.42:570][951]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2019.10.23-00.50.44:480][ 58]Cmd: DELETE
+[2019.10.23-00.50.44:480][ 58]Cmd: ACTOR DELETE
+[2019.10.23-00.50.44:492][ 58]LogEditorActor: Deleted Actor: Brush
+[2019.10.23-00.50.44:525][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.10.23-00.50.44:565][ 58]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2019.10.23-00.50.55:925][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.51.30:055][344]LogEditorViewport: Clicking Background
+[2019.10.23-00.51.31:924][456]LogEditorViewport: Clicking Background
+[2019.10.23-00.51.44:936][216]Cmd: DELETE
+[2019.10.23-00.51.44:937][216]Cmd: ACTOR DELETE
+[2019.10.23-00.51.44:954][216]LogEditorActor: Deleted Actor: Brush
+[2019.10.23-00.51.44:990][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.10.23-00.51.45:030][216]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2019.10.23-00.51.45:784][250]Cmd: DELETE
+[2019.10.23-00.51.45:784][250]Cmd: ACTOR DELETE
+[2019.10.23-00.51.45:795][250]LogEditorActor: Deleted Actor: Brush
+[2019.10.23-00.51.45:825][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.10.23-00.51.45:867][250]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2019.10.23-00.51.50:793][532]LogEditorViewport: Clicking Background
+[2019.10.23-00.52.13:206][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.52.16:469][ 15]LogRenderer: Reallocating scene render targets to support 1148x708 Format 10 NumSamples 1 (Frame:306331).
+[2019.10.23-00.52.16:515][ 16]LogRenderer: Reallocating scene render targets to support 1156x708 Format 10 NumSamples 1 (Frame:306333).
+[2019.10.23-00.52.16:687][ 23]LogRenderer: Reallocating scene render targets to support 1160x708 Format 10 NumSamples 1 (Frame:306343).
+[2019.10.23-00.52.16:727][ 24]LogRenderer: Reallocating scene render targets to support 1164x708 Format 10 NumSamples 1 (Frame:306345).
+[2019.10.23-00.52.16:770][ 25]LogRenderer: Reallocating scene render targets to support 1172x708 Format 10 NumSamples 1 (Frame:306347).
+[2019.10.23-00.52.16:844][ 27]LogRenderer: Reallocating scene render targets to support 1180x708 Format 10 NumSamples 1 (Frame:306351).
+[2019.10.23-00.52.16:887][ 28]LogRenderer: Reallocating scene render targets to support 1184x708 Format 10 NumSamples 1 (Frame:306353).
+[2019.10.23-00.54.37:615][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.54.42:454][151]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.54.42:539][156]LogEditorViewport: Clicking Background
+[2019.10.23-00.55.23:802][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.55.44:870][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor15)
+[2019.10.23-00.55.46:189][930]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.10.23-00.55.51:633][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.55.54:787][413]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.23-00.56.42:562][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.56.46:874][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.56.59:160][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.57.04:193][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.57.17:704][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.57.21:509][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.58.20:487][851]Cmd: TRANSACTION UNDO
+[2019.10.23-00.58.20:487][851]LogEditorTransaction: Undo Move Actors
+[2019.10.23-00.58.26:138][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.58.37:148][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.59.28:699][841]Cmd: TRANSACTION UNDO
+[2019.10.23-00.59.28:699][841]LogEditorTransaction: Undo Move Actors
+[2019.10.23-01.00.38:898][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.00.42:876][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.00.52:483][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.00.56:071][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.01.59:996][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.02.06:429][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.02.26:814][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.02.35:935][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.03.06:801][221]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.10.23-01.03.06:802][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.23-01.03.07:394][221]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_Auto5650703FB4FA1EBC7AB168093095CDC2C.tmp' to '../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto5.umap'
+[2019.10.23-01.03.07:396][221]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 0.683
+[2019.10.23-01.03.07:396][221]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.683
+[2019.10.23-01.03.54:768][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.04.04:120][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.04.20:552][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.04.23:809][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.04.35:384][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.04.39:545][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.05.45:750][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.05.49:063][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.06.26:436][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.06.29:577][697]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.10.23-01.06.31:632][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.07.11:111][ 91]Cmd: DELETE
+[2019.10.23-01.07.11:111][ 91]Cmd: ACTOR DELETE
+[2019.10.23-01.07.11:129][ 91]LogEditorActor: Deleted Actor: Brush
+[2019.10.23-01.07.11:177][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.10.23-01.07.11:242][ 91]LogEditorActor: Deleted 1 Actors (0.130 secs)
+[2019.10.23-01.07.13:574][222]Cmd: DELETE
+[2019.10.23-01.07.13:574][222]Cmd: ACTOR DELETE
+[2019.10.23-01.07.13:589][222]LogEditorActor: Deleted Actor: Brush
+[2019.10.23-01.07.13:620][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.10.23-01.07.13:683][222]LogEditorActor: Deleted 1 Actors (0.108 secs)
+[2019.10.23-01.07.31:799][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.07.31:927][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.23-01.07.31:958][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.10.23-01.07.32:495][295]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map0A1DF1F24CE20549AC8BF69DA7297354.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap'
+[2019.10.23-01.07.32:532][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
+[2019.10.23-01.07.32:621][295]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_BuiltDataFCC7AE6A453DD08B9CC6DDAFC6EE5CDA.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset'
+[2019.10.23-01.07.45:008][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.07.45:118][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.23-01.07.45:148][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.10.23-01.07.45:629][ 34]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_MapCCFC976C414249F4BB79E69B4EADB5B6.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap'
+[2019.10.23-01.07.45:642][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
+[2019.10.23-01.07.45:728][ 34]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_BuiltData463F63F543225C3D375E08BCD564BCB7.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset'
+[2019.10.23-01.09.04:255][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.09.09:392][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.10.23:804][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor63)
+[2019.10.23-01.10.25:357][391]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor56)
+[2019.10.23-01.10.25:774][414]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor49)
+[2019.10.23-01.10.26:307][444]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor47)
+[2019.10.23-01.10.27:122][491]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor46)
+[2019.10.23-01.11.45:229][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.11.49:157][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.13.22:205][521]LogEditorViewport: Clicking Background
+[2019.10.23-01.14.06:602][ 93]LogEditorViewport: Clicking Background
+[2019.10.23-01.17.45:450][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.10.23-01.17.45:452][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.23-01.17.46:077][784]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_Auto6FBA960604643A370CD4DD4B4992D0235.tmp' to '../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto6.umap'
+[2019.10.23-01.17.46:080][784]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 0.698
+[2019.10.23-01.17.46:080][784]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.698
+[2019.10.23-01.19.52:421][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.19.59:567][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.20.14:394][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.20.14:477][432]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.23-01.20.14:484][432]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-01.20.14:484][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.23-01.20.14:485][432]PIE: New page: PIE session: Halloween_Map (Oct 22, 2019, 3:20:14 PM)
+[2019.10.23-01.20.14:485][432]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.23-01.20.14:548][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063259s)
+[2019.10.23-01.20.14:549][432]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.23-01.20.14:549][432]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2019.10.23-01.20.14:549][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.064115s)
+[2019.10.23-01.20.14:584][432]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.10.23-01.20.14:591][432]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.23-01.20.14:638][432]LogInit: FAudioDevice initialized.
+[2019.10.23-01.20.14:670][432]LogLoad: Game class is 'First_Person_C'
+[2019.10.23-01.20.14:675][432]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.22-20.20.14
+[2019.10.23-01.20.14:676][432]LogWorld: Bringing up level for play took: 0.005073
+[2019.10.23-01.20.14:689][432]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.099
+[2019.10.23-01.20.14:689][432]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-01.20.58:495][ 55]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-01.20.58:496][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-01.20.58:529][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.23-01.20.58:529][ 55]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-01.20.58:559][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-01.20.58:565][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.10.23-01.20.58:618][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.10.23-01.22.04:985][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.22.09:369][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.23.06:706][411]LogEditorViewport: Clicking Background
+[2019.10.23-01.23.08:833][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.23.13:091][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.23.59:537][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor25)
+[2019.10.23-01.24.00:511][533]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor13)
+[2019.10.23-01.24.07:682][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor25)
+[2019.10.23-01.24.10:221][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor13)
+[2019.10.23-01.24.10:820][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor25)
+[2019.10.23-01.24.28:683][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.24.37:939][723]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.23-01.25.05:340][343]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.23-01.25.29:701][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.23-01.25.38:934][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.23-01.25.57:772][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.26.07:962][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.26.27:785][141]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.26.28:614][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2019.10.23-01.26.33:038][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.26.44:620][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.26.48:880][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.26.54:194][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.27.00:922][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.27.06:540][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.27.12:361][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.27.14:530][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.10.23-01.27.24:675][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.27.29:633][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.27.33:606][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.28.08:882][  9]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.28.09:999][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor68)
+[2019.10.23-01.28.13:228][264]Cmd: DELETE
+[2019.10.23-01.28.13:228][264]Cmd: ACTOR DELETE
+[2019.10.23-01.28.13:248][264]LogEditorActor: Deleted Actor: Brush
+[2019.10.23-01.28.13:299][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.10.23-01.28.13:384][264]LogEditorActor: Deleted 1 Actors (0.157 secs)
+[2019.10.23-01.28.15:533][381]Cmd: DELETE
+[2019.10.23-01.28.15:533][381]Cmd: ACTOR DELETE
+[2019.10.23-01.28.15:549][381]LogEditorActor: Deleted Actor: Brush
+[2019.10.23-01.28.15:573][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.10.23-01.28.15:663][381]LogEditorActor: Deleted 1 Actors (0.131 secs)
+[2019.10.23-01.28.20:556][666]Cmd: DELETE
+[2019.10.23-01.28.20:556][666]Cmd: ACTOR DELETE
+[2019.10.23-01.28.20:571][666]LogEditorActor: Deleted Actor: Brush
+[2019.10.23-01.28.20:593][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.10.23-01.28.20:682][666]LogEditorActor: Deleted 1 Actors (0.126 secs)
+[2019.10.23-01.28.22:596][773]Cmd: DELETE
+[2019.10.23-01.28.22:596][773]Cmd: ACTOR DELETE
+[2019.10.23-01.28.22:612][773]LogEditorActor: Deleted Actor: Brush
+[2019.10.23-01.28.22:638][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.10.23-01.28.22:723][773]LogEditorActor: Deleted 1 Actors (0.125 secs)
+[2019.10.23-01.28.24:620][880]Cmd: DELETE
+[2019.10.23-01.28.24:620][880]Cmd: ACTOR DELETE
+[2019.10.23-01.28.24:636][880]LogEditorActor: Deleted Actor: Brush
+[2019.10.23-01.28.24:661][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.10.23-01.28.24:747][880]LogEditorActor: Deleted 1 Actors (0.126 secs)
+[2019.10.23-01.28.27:971][ 61]Cmd: DELETE
+[2019.10.23-01.28.27:971][ 61]Cmd: ACTOR DELETE
+[2019.10.23-01.28.27:987][ 61]LogEditorActor: Deleted Actor: Brush
+[2019.10.23-01.28.28:010][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.10.23-01.28.28:095][ 61]LogEditorActor: Deleted 1 Actors (0.124 secs)
+[2019.10.23-01.28.28:774][ 89]Cmd: DELETE
+[2019.10.23-01.28.28:774][ 89]Cmd: ACTOR DELETE
+[2019.10.23-01.28.28:790][ 89]LogEditorActor: Deleted Actor: Brush
+[2019.10.23-01.28.28:814][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.10.23-01.28.28:901][ 89]LogEditorActor: Deleted 1 Actors (0.126 secs)
+[2019.10.23-01.28.32:603][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor35)
+[2019.10.23-01.28.36:160][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor67)
+[2019.10.23-01.29.35:163][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.29.35:207][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.10.23-01.29.35:208][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.23-01.29.35:836][ 25]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_Auto76F0E06804FADAC568360568FA5A5AC0C.tmp' to '../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto7.umap'
+[2019.10.23-01.29.35:838][ 25]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 0.659
+[2019.10.23-01.29.35:838][ 25]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.659
+[2019.10.23-01.31.29:814][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.33.30:435][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.33.34:887][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.33.49:529][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.33.49:629][900]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.23-01.33.49:637][900]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-01.33.49:637][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.23-01.33.49:637][900]PIE: New page: PIE session: Halloween_Map (Oct 22, 2019, 3:33:49 PM)
+[2019.10.23-01.33.49:637][900]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.23-01.33.49:705][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068140s)
+[2019.10.23-01.33.49:706][900]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.23-01.33.49:706][900]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2019.10.23-01.33.49:706][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.069199s)
+[2019.10.23-01.33.49:746][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.10.23-01.33.49:752][900]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.23-01.33.49:797][900]LogInit: FAudioDevice initialized.
+[2019.10.23-01.33.49:823][900]LogLoad: Game class is 'First_Person_C'
+[2019.10.23-01.33.49:829][900]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.22-20.33.49
+[2019.10.23-01.33.49:830][900]LogWorld: Bringing up level for play took: 0.006005
+[2019.10.23-01.33.49:843][900]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map -0.747
+[2019.10.23-01.33.49:843][900]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-01.35.12:018][824]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-01.35.12:018][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-01.35.12:053][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.23-01.35.12:053][824]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-01.35.12:089][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-01.35.12:094][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.10.23-01.35.12:138][825]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.10.23-01.35.35:472][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.35.39:217][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.36.35:925][917]Cmd: DELETE
+[2019.10.23-01.36.35:925][917]Cmd: ACTOR DELETE
+[2019.10.23-01.36.35:944][917]LogEditorActor: Deleted Actor: Brush
+[2019.10.23-01.36.35:978][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.10.23-01.36.36:064][917]LogEditorActor: Deleted 1 Actors (0.138 secs)
+[2019.10.23-01.36.36:537][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor54)
+[2019.10.23-01.36.37:598][994]Cmd: DELETE
+[2019.10.23-01.36.37:598][994]Cmd: ACTOR DELETE
+[2019.10.23-01.36.37:616][994]LogEditorActor: Deleted Actor: Brush
+[2019.10.23-01.36.37:648][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.10.23-01.36.37:736][994]LogEditorActor: Deleted 1 Actors (0.138 secs)
+[2019.10.23-01.36.38:611][ 33]Cmd: DELETE
+[2019.10.23-01.36.38:611][ 33]Cmd: ACTOR DELETE
+[2019.10.23-01.36.38:629][ 33]LogEditorActor: Deleted Actor: Brush
+[2019.10.23-01.36.38:661][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.10.23-01.36.38:745][ 33]LogEditorActor: Deleted 1 Actors (0.134 secs)
+[2019.10.23-01.36.39:680][ 76]Cmd: DELETE
+[2019.10.23-01.36.39:680][ 76]Cmd: ACTOR DELETE
+[2019.10.23-01.36.39:697][ 76]LogEditorActor: Deleted Actor: Brush
+[2019.10.23-01.36.39:727][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.10.23-01.36.39:812][ 76]LogEditorActor: Deleted 1 Actors (0.132 secs)
+[2019.10.23-01.36.40:607][113]Cmd: DELETE
+[2019.10.23-01.36.40:607][113]Cmd: ACTOR DELETE
+[2019.10.23-01.36.40:625][113]LogEditorActor: Deleted Actor: Brush
+[2019.10.23-01.36.40:655][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.10.23-01.36.40:740][113]LogEditorActor: Deleted 1 Actors (0.132 secs)
+[2019.10.23-01.38.07:587][935]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush239)
+[2019.10.23-01.38.17:452][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.38.17:519][500]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.23-01.38.17:527][500]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-01.38.17:528][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.23-01.38.17:528][500]PIE: New page: PIE session: Halloween_Map (Oct 22, 2019, 3:38:17 PM)
+[2019.10.23-01.38.17:528][500]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.23-01.38.17:597][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068945s)
+[2019.10.23-01.38.17:597][500]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.23-01.38.17:598][500]LogPlayLevel: PIE: World Init took: (0.000492s)
+[2019.10.23-01.38.17:598][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.069677s)
+[2019.10.23-01.38.17:642][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.10.23-01.38.17:650][500]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.10.23-01.38.17:699][500]LogInit: FAudioDevice initialized.
+[2019.10.23-01.38.17:731][500]LogLoad: Game class is 'First_Person_C'
+[2019.10.23-01.38.17:736][500]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.22-20.38.17
+[2019.10.23-01.38.17:737][500]LogWorld: Bringing up level for play took: 0.005021
+[2019.10.23-01.38.17:750][500]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 1.16
+[2019.10.23-01.38.17:750][500]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-01.38.51:946][541]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-01.38.51:947][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-01.38.51:980][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.23-01.38.51:981][541]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-01.38.52:019][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-01.38.52:025][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.10.23-01.38.52:071][542]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.10.23-01.38.53:002][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.38.53:126][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.23-01.38.53:157][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2019.10.23-01.38.53:830][599]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map8611C9B24B21511BB6E95DBF3DE6B710.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap'
+[2019.10.23-01.38.53:873][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
+[2019.10.23-01.38.53:965][599]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_BuiltData221951C443E8A1EE346CA38C624A9C3B.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset'
+[2019.10.23-01.39.01:001][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
