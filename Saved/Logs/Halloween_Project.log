@@ -10128,3 +10128,46 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.25-01.04.02:671][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
 [2019.10.25-01.04.03:216][482]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_BuiltData650882D54617F4BF811F0EBDD3047FC0.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset'
 [2019.10.25-01.04.06:823][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.06.04:968][317]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush420)
+[2019.10.25-01.06.10:777][648]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush421)
+[2019.10.25-01.06.15:467][912]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush426)
+[2019.10.25-01.06.28:392][670]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush427)
+[2019.10.25-01.06.31:063][818]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush428)
+[2019.10.25-01.06.37:380][185]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush427)
+[2019.10.25-01.06.40:104][336]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush428)
+[2019.10.25-01.06.54:923][196]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush427)
+[2019.10.25-01.07.20:987][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.07.34:717][530]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush426)
+[2019.10.25-01.07.58:792][939]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush430)
+[2019.10.25-01.08.13:367][781]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush428)
+[2019.10.25-01.08.30:721][780]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush427)
+[2019.10.25-01.08.36:550][110]LogEditorViewport: Clicking Background
+[2019.10.25-01.08.37:056][140]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush435)
+[2019.10.25-01.08.49:316][834]LogEditorViewport: Clicking Background
+[2019.10.25-01.08.54:757][142]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.08.55:386][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.25-01.08.55:454][173]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2019.10.25-01.08.56:283][173]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map5CD4E8794E790716107CCBA34612F9EE.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap'
+[2019.10.25-01.08.56:336][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
+[2019.10.25-01.08.56:548][173]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_BuiltData59167470433CDA13001C5387F02387E1.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset'
+[2019.10.25-01.08.57:407][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.08.57:580][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.25-01.08.57:615][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.10.25-01.08.58:339][228]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map5D9013C1450DC5866732859D204F03A5.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap'
+[2019.10.25-01.08.58:353][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
+[2019.10.25-01.08.58:553][228]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_BuiltDataFBBD486E448184F80D7C51A23339BBD1.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset'
+[2019.10.25-02.26.49:814][478]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush423)
+[2019.10.25-02.27.03:652][262]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush425)
+[2019.10.25-02.27.25:716][526]LogEditorViewport: Clicking Background
+[2019.10.25-02.27.50:247][991]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.27.50:299][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.10.25-02.27.50:300][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.10.25-02.27.51:089][991]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_Auto8FF58F8A54DDFDF3A08C40BA3198DCB1E.tmp' to '../../../../GitHub/Halloween/Saved/Autosaves/Game/Maps/Halloween_Map_Auto8.umap'
+[2019.10.25-02.27.51:090][991]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 0.825
+[2019.10.25-02.27.51:090][991]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.825
+[2019.10.25-02.28.04:612][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-02.28.04:760][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.25-02.28.04:796][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.10.25-02.28.05:576][789]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_MapE97EF37E4C4AA1EC434F2D8025B7A9E8.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map.umap'
+[2019.10.25-02.28.05:609][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
+[2019.10.25-02.28.05:818][789]LogSavePackage: Moving '../../../../GitHub/Halloween/Saved/Halloween_Map_BuiltDataF36A111349BC5634B36D4484194115B9.tmp' to '../../../../GitHub/Halloween/Content/Maps/Halloween_Map_BuiltData.uasset'
