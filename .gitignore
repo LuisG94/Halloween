@@ -4,3 +4,4 @@ Config/DefaultEngine.ini
 Config/DefaultGame.ini
 *.bin
 *.json
+*.log
