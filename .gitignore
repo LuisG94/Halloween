@@ -5,3 +5,4 @@ Config/DefaultGame.ini
 *.bin
 *.json
 *.log
+Content/ModularSewerSystem/levels/Demo_BuiltData.uasset
