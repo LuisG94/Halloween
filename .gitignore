@@ -6,3 +6,4 @@ Config/DefaultGame.ini
 *.json
 *.log
 Content/ModularSewerSystem/levels/Demo_BuiltData.uasset
+Intermediate/Staging/Halloween_Project.exe
